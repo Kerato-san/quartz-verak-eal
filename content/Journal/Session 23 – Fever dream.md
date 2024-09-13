@@ -1,0 +1,11 @@
+*28 Sirorev 1524 – 30 Sirorev 1524*
+
+The group trudges through the thick underbrush, their primary concern being the deteriorating health of Roderick. Poison courses through his veins, manifesting the torment in both his pallor and his agony. On the crest of a ridge with a breathtaking view of the jungle in the Chamak valley, Roderick, in his weakened state, heaves, his nausea leaving an unpleasant deposit in the bushes. His dazed eyes view the expansive vista, and deliriously, he wonders aloud about the possibility of flight if propelled off the edge.
+
+Journeying further into the verdant heart of the forest, Roderick claims to have glimpsed a large reptilian creature. Investigation of the area reveals tracks reminiscent of kobold footprints, confirming their presence in the vicinity. As twilight descends upon them, the group settles in a clearing, with Kavi skilfully crafting makeshift tents using gauze cloth. A vigil is held for the ailing Roderick; Aina, Dr. Gupta, and Megan take turns ensuring his safety and watching over the camp.
+
+In the silence of the night, as the rest of the group slumbers, Aina and Suhana find solace in each other's company, sharing an intimate embrace beneath the canvas.
+
+Come dawn, Megan employs her arcane abilities to ascertain the state of Roderick's poisoning. To their collective relief, he seems to have battled through the worst of the toxin, though weakness still clings to him. Lugh, upon awakening, conducts a perimeter check, discovering the stealthy tracks of a kobold right behind their shelter. Hoping to foster amity, the group leaves behind trinkets and a note penned in Draconic as a peace offering.
+
+Though they constantly keep an eye out for the elusive kobolds during their journey, the creatures remain hidden from sight. But, as they approach the glistening stream that snakes its way through the valley, Aina's keen senses detect a pair of kobolds lurking in the bushes. Swift and silent as a shadow, she teleports, catching one of them off guard.
