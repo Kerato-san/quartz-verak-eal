@@ -1,0 +1,19 @@
+*11 Sirorev 1524*
+
+As the group ventured onto the balcony, the grandeur of the chamber gradually revealed itself, including the towering vaulted ceiling and the imposing statue standing at its heart. The statue depicted a broad-shouldered figure with a serene expression on its bearded face, holding a chisel and hammer—an unmistakable representation of Timnar himself.
+
+Aina took the lead in meticulously checking the entire hall for traps and secret entrances, her keen eye identifying one hidden behind the statue, adjacent to a regular door. Her investigation also uncovered that the small door at the base of the stairs appeared to have been forced open from the inside, revealing a 35-foot hallway leading to another door. Furthermore, the large double doors on the balcony seemed to be in excellent condition, securely shut, but showing signs of recent use.
+
+The group returned to focus on the door concealed behind the statue. It became apparent that the door hadn't seen recent use, and the secret entrance, while weakened by the passage of time, appeared to have remained untouched for an extended period. Aina, determined to progress, attempted to unlock the door using her thieves' tools, but her efforts were in vain. Without hesitation, she decided to implement a more direct approach and kicked the door open, remarking that it was all "according to plan."
+
+However, this daring move nearly resulted in an unexpected slide down a slippery slope behind the door. To mitigate the risk, Gideon promptly tied a rope to the nearest statue's leg and sent Mr. Diodaris down to investigate first. Mr. Diodaris reported back that there were two chests below, with two skeletons laid out over them. Aina, with the rope secured around her waist, descended cautiously, narrowly avoiding a pit trap located at the base of the stone slide. Upon entering the room, the skeletons, triggered by her presence, came to life.
+
+In a frantic attempt to pull Aina to safety, Roderick and Gideon inadvertently caused her to tumble to the ground as she was startled by Lugh's precise shot that decapitated one of the skeletons. Covered in muck, she was hauled up the slope and cleaned off with the assistance of a mechanical cleaning spider produced by Gideon's ingenuity. One of the skeletons tumbled into the pit, while Aina managed to incapacitate the other with a well-placed arrow to its hip before descending once more to inspect the chests.
+
+Roderick initially contemplated filling the pit with rubble but decided instead to use broken pews to cover it. With the contents of the chests examined, and their considerable value acknowledged, the group proceeded to investigate the hallway behind the smaller forced door to the right. There, they encountered several opened sarcophagi, cutlery, pottery, and other items of limited material worth. At the far end of the hallway, another door beckoned to the left, but they decided to explore the chamber behind the statue first.
+
+Beyond the door was an opulent hallway that led to a room adorned with two pillars, frescoes adorning the walls, and a lavishly decorated sarcophagus standing prominently at its centre. As they approached, a robed figure rose from a kneeling position and challenged them to prove their worth. Roderick, bolstered by the group's distant support, accepted the challenge, culminating in Gideon's electrifying punch to the figure's face, ending the confrontation.
+
+The robes and bracers of their adversary appeared oddly well-preserved, prompting the group to keep them for later examination. The room featured a fresco of Timnar behind the sarcophagus, while the other walls depicted a battle between mages and warriors, a crumbling fortress with the town's guard tower prominently visible, and a funeral procession into the very crypt.
+
+From these clues, the group concluded that Lord Waldhart was the wight they had just confronted and speculated that he had been corrupted.
