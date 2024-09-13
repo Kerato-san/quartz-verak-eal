@@ -1,1 +1,0 @@
-The inner sea of [[./Thymios|Thymios]]
