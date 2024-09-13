@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Alegreya SC",
         body: "Alegreya Sans",
