@@ -1,3 +1,99 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+:is(h1, h2, h3, h4, h5, h6){
+    margin: 0px;
+    font-weight: 400;
+}
+
+thead{
+    font-family: var(--bodyFont);
+}
+
+p{
+    margin-block-start: 0em;
+}
+
+.search>.search-button>p {
+    margin-block-start: 1em;
+}
+
+ul.overflow {
+    max-height: calc(100vh - 30rem);
+}
+
+[saved-theme="dark"] .callout[data-callout="infobox"] {
+    --color: #000000;
+    --border: #197bbb;
+    --bg: #197bbb3b;
+
+    
+}
+
+.callout[data-callout="infobox"] {
+    --color: #000000;
+    --border: #ab9276;
+    --bg: #c0902938;
+    --callout-icon: url("data:image/svg+xml; utf8, <custom formatted svg>"); //SVG icon code
+    float: right;
+    max-width: 20vw;
+    margin: 0;
+    margin-left: 8px;
+    padding: 0px;
+    text-align: center;
+
+    >.callout-title {
+        visibility: hidden;
+        margin: 0px;
+        height: 0px;
+        padding: 0px;
+    }
+
+    :is(h4, h5, h6){
+        margin: 0.5rem;
+        font-family: var(--bodyFont);
+        font-weight: 700;
+    }
+
+    p:has(img){
+        margin: 0px;
+        padding: 0px;
+        line-height: 0rem;
+    }
+
+    img{
+        margin: 0px;
+        border-radius: 0px;
+        padding: 0px;
+    }
+
+    .table-container {
+        width: 100%;
+        width: -moz-available;
+        /* WebKit-based browsers will ignore this. */
+        width: -webkit-fill-available;
+        /* Mozilla-based browsers will ignore this. */
+        width: fill-available;
+        >table {
+            width: calc(100% - 2rem);
+            width: -moz-available;
+            /* WebKit-based browsers will ignore this. */
+            width: -webkit-fill-available;
+            /* Mozilla-based browsers will ignore this. */
+            width: fill-available;
+            margin: 0px;
+            text-align: left;
+            tr:nth-child(even){
+                background-color: var(--bg);
+            }
+            thead{
+                background-color: var(--bg);
+                tr{
+                    background-color: var(--bg);
+                }
+            }
+        }
+    }
+}
+

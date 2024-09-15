@@ -507,7 +507,7 @@ div:has(> .overflow) {
 
 ul.overflow,
 ol.overflow {
-  max-height: 50vh;
+  max-height: 400px;
   overflow-y: auto;
 
   // clearfix
