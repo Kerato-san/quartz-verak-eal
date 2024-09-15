@@ -5,6 +5,7 @@
 > | Type |  Stat |
 > |---|---|
 > | Heritage | Archfey |
+> | Status | Alive |
 
 
 ## Overview
