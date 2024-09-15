@@ -31,13 +31,23 @@ ul.overflow {
     
 }
 
+:not(.popover>.popover-inner)>.popover-hint>.callout[data-callout="infobox"] {
+        @media (min-width: 1510px) {
+            float: right;
+            max-width: 375px;
+        }
+}
+
+.popover>.popover-inner>.popover-hint>.callout[data-callout="infobox"] {
+display: none;
+}
+
 .callout[data-callout="infobox"] {
     --color: #000000;
     --border: #ab9276;
     --bg: #c0902938;
     --callout-icon: url("data:image/svg+xml; utf8, <custom formatted svg>"); //SVG icon code
-    float: right;
-    max-width: 20vw;
+
     margin: 0;
     margin-left: 8px;
     padding: 0px;
@@ -92,6 +102,12 @@ ul.overflow {
                 tr{
                     background-color: var(--bg);
                 }
+            }
+            th{
+                border-bottom: 2px solid var(--border);
+            }
+            tr{
+                border: 0px;
             }
         }
     }
