@@ -1,6 +1,4 @@
-```query
-type: character
-```
+
 
 - [[./Ander Janessy|Ander Janessy]]
 - [[./Giaffer Parounag Simdan|Giaffer Parounag Simdan]]
