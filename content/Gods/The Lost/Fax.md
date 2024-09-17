@@ -56,8 +56,8 @@ In these temples, rituals are often centred around displays of dominance, where 
 **Fax’s Role in the Age of Gods**  
 Fax rose to prominence during the Age of Gods, when mortals first began to organise into hierarchies of power. It was Fax who taught kings and emperors how to bend their subjects to their will, how to maintain control through fear, and how to crush rebellion before it could begin. His influence spread quickly among the ambitious and the cruel, and his teachings became the backbone of many tyrannical regimes.
 
-**Fax and the Shatter**  
-During the Shatter, Fax fought alongside the Lost, seeking to use the chaos of the conflict to spread his doctrine of domination. While other gods sought freedom or justice, Fax saw an opportunity to impose a new world order, where his iron rule would stretch across the planes. Though the Grey ultimately succeeded, Fax’s influence did not wane. His followers continued to spread his teachings, and in the aftermath of the Shatter, many sought to rebuild their power, hoping to one day see their god rise again.
+**Fax and [[../../The Shatter and The War of The Shatter|The Shatter]]**  
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Fax fought alongside [[../The Lost Pantheon|The Lost]], seeking to use the chaos of the conflict to spread his doctrine of domination. While other gods sought freedom or justice, Fax saw an opportunity to impose a new world order, where his iron rule would stretch across the planes. Though [[../The Grey Pantheon|The Grey]] ultimately succeeded, Fax’s influence did not wane. His followers continued to spread his teachings, and in the aftermath of [[../../The Shatter and The War of The Shatter|The Shatter]], many sought to rebuild their power, hoping to one day see their god rise again.
 
 # Tenets of Faith
 Fax’s followers adhere to these commandments:
