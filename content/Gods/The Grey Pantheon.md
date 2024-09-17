@@ -7,7 +7,7 @@ Alias:
 > #### Basic Information
 > |  |   |
 > |---|---|
-> | **Founders** | [[./The Grey/Dathin|Dathin]] and [[./The Grey/The Porcelain Queen|The Porcelain Queen]] |
+> | **Founders** | [[./The Grey/Dathin\|Dathin]] and [[./The Grey/The Porcelain Queen\|The Porcelain Queen]] |
 > | **Affiliation** | Pantheon of Verak’eal |
 > | **Enemies** |  [[./The Lost Pantheon\|The Lost]] |
 > | **Members** | Atheca<br>Dathin<br>Dinarul<br>Filan<br>Kalin<br>Lindof<br>Mahatu<br>Nedarin<br>Nethin<br>The Porcelain Queen<br>Rindra<br>Serah<br>Sheleth<br>Timnar<br>Varida  |
