@@ -38,9 +38,9 @@ However, Serah is adamant that love must be true and uncorrupted. When love caus
 Though gentle and kind, Serah is not without her stern side. She despises those who manipulate love for selfish ends and will not hesitate to intervene if she believes a bond has been wrongfully corrupted.
 
 # Relationships
-Serah maintains cordial relationships with most deities, for love touches all aspects of life. She is particularly close to **Sheleth** (god of art), who shares her appreciation for beauty and creativity, as well as **Kalin** (goddess of success and experimentation), who embodies the joy of pursuing one’s passions.
+Serah maintains cordial relationships with most deities, for love touches all aspects of life. She is particularly close to **[[./Sheleth|Sheleth]]** (god of art), who shares her appreciation for beauty and creativity, as well as **[[./Kalin|Kalin]]** (goddess of success and experimentation), who embodies the joy of pursuing one’s passions.
 
-While Serah generally avoids conflict, she opposes gods who twist love or use it as a tool for manipulation, such as **Fax** (god of domination) and **Nethira** (goddess of deceit). To Serah, love must be freely given and received, never forced or corrupted, and those who seek to control or exploit it are among her greatest enemies. She also strongly opposes **Hekoda** (god of hatred), he is the anthesis of what she is.
+While Serah generally avoids conflict, she opposes gods who twist love or use it as a tool for manipulation, such as **[[../The Lost/Fax|Fax]]** (god of domination) and **[[../The Lost/Nethira|Nethira]]** (goddess of deceit). To Serah, love must be freely given and received, never forced or corrupted, and those who seek to control or exploit it are among her greatest enemies. She also strongly opposes **[[../The Lost/Hekoda|Hekoda]]** (god of hatred), he is the anthesis of what she is.
 
 # Worshippers
 Serah’s followers include lovers, poets, bards, artists, and anyone who seeks to bring beauty and joy into the world. Her temples are often filled with flowers and light, serving as sanctuaries where couples can marry, lovers can offer prayers, and artists can seek inspiration. Her priests are known for officiating weddings, blessing unions, and offering counsel to those who struggle with matters of the heart.
