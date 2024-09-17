@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Atheca.png|../ZZ Images/Atheca.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Atheca
 > #### Basic Information
 > |  |   |
