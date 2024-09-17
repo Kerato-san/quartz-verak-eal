@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Dinarul.png|../ZZ Images/Dinarul.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Dinarul
 > #### Basic Information
 > |  |   |
