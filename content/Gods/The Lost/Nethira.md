@@ -1,5 +1,5 @@
 > [!infobox]  
-> ![[../ZZ Images/Nethira.png|../ZZ Images/Nethira.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Nethira  
 > #### Basic Information  
 > |  |  |  
