@@ -23,7 +23,7 @@
 > | **Favoured Weapon** | Dagger or shortbow |
 > | **Holy Day(s)** | The Night of the Crescent Moon, eclipses, and new moons |
 
-**Nethin** is the goddess of the moon, secrets, trickery, and illusions. She governs the tides, the mysteries of the night, and the hidden corners of the world, where light cannot fully reach. Nethin is known for her playfulness and her belief that deception and illusion, while often misunderstood, can be forces for good. She delights in subtlety and misdirection, and her followers believe that her guidance can reveal hidden truths that would otherwise remain obscured. However, her playful and mischievous nature leads some to question her true intentions. While most of her followers insist she is a force for good, others whisper that her schemes may serve only her amusement.
+**Nethin** is the **goddess of the moon, secrets and trickery**. She governs the tides, the mysteries of the night, and the hidden corners of the world, where light cannot fully reach. Nethin is known for her playfulness and her belief that deception and illusion, while often misunderstood, can be forces for good. She delights in subtlety and misdirection, and her followers believe that her guidance can reveal hidden truths that would otherwise remain obscured. However, her playful and mischievous nature leads some to question her true intentions. While most of her followers insist she is a force for good, others whisper that her schemes may serve only her amusement.
 
 # Description
 Nethin is typically depicted as a lithe and graceful figure, draped in silvery shadows that shimmer like moonlight on water. Her eyes, glowing softly like the light of the crescent moon, are filled with mystery, constantly shifting in colour and intensity. Her long, flowing hair is often portrayed as either silver or inky black, depending on whether she is seen in her benevolent or mischievous guise. She is always in motion, fading in and out of view as if she were part of the night itself, an ephemeral presence just beyond reach.
@@ -36,9 +36,9 @@ Nethin is a complex deity, embodying both the benevolent mysteries of the night 
 Though her followers believe she ultimately works for the greater good, there are many who question her true motives. Nethin’s propensity for secrets and her tendency to act according to her own whims has sparked rumours that she may have her own hidden agenda, with some doubting whether she truly embodies the forces of good, or whether that too is part of her elaborate ruse.
 
 # Relationships
-Nethin's playful and secretive nature often puts her at odds with the more straightforward deities, particularly those of law and order. Her relationship with **Timnar** (god of law) is tense, as he views her deceptions as disruptive to the balance he seeks to maintain. However, she shares a close connection with **Atheca** (goddess of magic), with whom she often collaborates to unlock the arcane mysteries of the world.
+Nethin's playful and secretive nature often puts her at odds with the more straightforward deities, particularly those of law and order. Her relationship with [[./Timnar|Timnar]] (god of law) is tense, as he views her deceptions as disruptive to the balance he seeks to maintain. However, she shares a close connection with [[./Atheca|Atheca]] (goddess of magic), with whom she often collaborates to unlock the arcane mysteries of the world.
 
-She also enjoys a cordial relationship with **Filan** (god of animals), as they both share a love for the wild and untamed, though her trickery sometimes frustrates his more straightforward approach to the natural world. Among the gods, Nethin is most often a mediator between factions, slipping between alliances as it suits her, though her unpredictable nature means she is not fully trusted by any of them.
+She also enjoys a cordial relationship with [[./Filan|Filan]] (god of animals), as they both share a love for the wild and untamed, though her trickery sometimes frustrates his more straightforward approach to the natural world. Among the gods, Nethin is most often a mediator between factions, slipping between alliances as it suits her, though her unpredictable nature means she is not fully trusted by any of them.
 
 # Worshippers
 Nethin’s followers are a diverse group, ranging from rogues and spies who rely on her protection to illusionists and bards who draw inspiration from her mastery of secrets. Many who walk the shadows or live on the fringes of society pray to Nethin for guidance, trusting in her to shield them from danger or to reveal the truth hidden beneath layers of deception.
@@ -55,9 +55,9 @@ Her worshippers celebrate the night and the mysteries it holds. Many temples to 
 - "Not every illusion is meant to deceive."
 
 # History
-Nethin’s role in the **Age of Gods** was one of mischief and subtle influence. She meddled in the affairs of both mortals and gods alike, often using her illusions to turn the tide of battle or to expose hidden truths that others wished to keep concealed. Her playful nature earned her both friends and enemies, though her true allegiances remained mysterious throughout the divine conflicts. 
+Nethin’s role in the Age of Gods was one of mischief and subtle influence. She meddled in the affairs of both mortals and gods alike, often using her illusions to turn the tide of battle or to expose hidden truths that others wished to keep concealed. Her playful nature earned her both friends and enemies, though her true allegiances remained mysterious throughout the divine conflicts. 
 
-During the **Shatter**, Nethin played a behind-the-scenes role, using her illusions to protect key figures of the **Grey** from assassination and sabotage by the **Lost**. While her efforts were vital to the Grey’s success, some gods questioned whether Nethin had ulterior motives, given her penchant for deception. After the war, she retreated to her Midnight Veil, content to let mortals and gods alike wonder about her true intentions.
+During [[../../General History#The Shatter|The Shatter]], Nethin played a behind-the-scenes role, using her illusions to protect key figures of the Grey from assassination and sabotage by the Lost. While her efforts were vital to the Grey’s success, some gods questioned whether Nethin had ulterior motives, given her penchant for deception. After the war, she retreated to her Midnight Veil, content to let mortals and gods alike wonder about her true intentions.
 
 # Tenets of Faith
 Nethin’s followers abide by these tenets:

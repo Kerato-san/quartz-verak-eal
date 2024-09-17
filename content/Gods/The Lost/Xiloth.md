@@ -22,7 +22,7 @@
 > | **Favoured Weapon** | Barbed whip |
 > | **Holy Day(s)** | The Night of Endless Suffering, where her followers engage in rituals of pain and torment |
 
-**Xiloth** is a deity feared for her unmatched cruelty and obsession with pain. Her followers revel in the suffering of others and themselves, considering agony to be the ultimate offering to their goddess. Xiloth represents the darkest, most primal aspects of existence, where pain is both power and pleasure.
+**Xiloth** is **the goddess of pain**, feared for her unmatched cruelty and obsession with pain. Her followers revel in the suffering of others and themselves, considering agony to be the ultimate offering to their goddess. Xiloth represents the darkest, most primal aspects of existence, where pain is both power and pleasure.
 
 # Description
 Xiloth is often depicted as a fearsome yet eerily beautiful figure, her four horns arching from her skull in a wicked display of power. She possesses two sets of arms, each ending in razor-sharp claws capable of rending flesh and soul alike. Her haunting purple eyes glow with malice, and her smile holds a twisted allure. Xiloth’s body is adorned with the scars of her victims, etched into her flesh as a testament to the countless lives she has tormented.
@@ -39,13 +39,13 @@ Her cruelty knows no bounds, but she values loyalty among her followers, particu
 Despite her obsession with torment, Xiloth is also calculated, using her grasp over pain to manipulate others into submission. Her interactions with mortals are rare, but those who have encountered her power speak of an overwhelming aura of dread and despair, as if the very presence of the goddess could break their will.
 
 # Relationships
-Xiloth’s cruelty isolates her from many deities, but she finds kinship with a select few. She has a particular fondness for **Zarilith**, goddess of deception and darkness, whose manipulation and betrayal pair well with Xiloth’s love for suffering. Together, their schemes have caused untold misery, weaving webs of deceit and pain across the realms.
+Xiloth’s cruelty isolates her from many deities, but she finds kinship with a select few. She has a particular fondness for [[./Zarilith|Zarilith]], goddess of deception and darkness, whose manipulation and betrayal pair well with Xiloth’s love for suffering. Together, their schemes have caused untold misery, weaving webs of deceit and pain across the realms.
 
-**Nethira**, goddess of deceit, also aligns well with Xiloth, as both revel in the manipulation of minds and the infliction of slow, drawn-out suffering. Their followers sometimes collaborate, blending psychological torment with physical pain to break even the strongest wills.
+[[./Nethira|Nethira]], goddess of deceit, also aligns well with Xiloth, as both revel in the manipulation of minds and the infliction of slow, drawn-out suffering. Their followers sometimes collaborate, blending psychological torment with physical pain to break even the strongest wills.
 
-However, Xiloth holds enmity toward **Serah**, the goddess of love, whose compassion and care are antithetical to her own dark desires. Xiloth despises any force that seeks to alleviate pain or bring comfort to the suffering. Similarly, she harbours hatred for **Lindof**, the god of war and strength, whose followers often resist pain and hardship in battle, something Xiloth views as a challenge to her dominion.
+However, Xiloth holds enmity toward [[../The Grey/Serah|Serah]], the goddess of love, whose compassion and care are antithetical to her own dark desires. Xiloth despises any force that seeks to alleviate pain or bring comfort to the suffering. Similarly, she harbours hatred for [[../The Grey/Lindof|Lindof]], the god of war and strength, whose followers often resist pain and hardship in battle, something Xiloth views as a challenge to her dominion.
 
-Xiloth holds **Pentath**, the god of destruction, in high regard, for where he leaves ruin in his wake, she follows to revel in the aftermath. The destruction he brings offers her countless opportunities to inflict torment on the survivors of his chaos.
+Xiloth holds [[./Pentath|Pentath]], the god of destruction, in high regard, for where he leaves ruin in his wake, she follows to revel in the aftermath. The destruction he brings offers her countless opportunities to inflict torment on the survivors of his chaos.
 
 # Worshippers
 Xiloth’s followers are fanatical in their dedication, seeking out ways to cause pain wherever they go. Torturers, sadists, and those who take pleasure in the suffering of others form the core of her worshippers, often engaging in rituals that involve self-mutilation or the torture of captives. Many of her temples are hidden away in dark places where only the most devout can enter, places where screams of agony serve as prayers to the goddess. Xiloth's priests are skilled in both the arts of inflicting and enduring pain, using their knowledge to keep their followers in line and enforce the goddess’s will.

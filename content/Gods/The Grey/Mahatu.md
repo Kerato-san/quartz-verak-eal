@@ -23,7 +23,7 @@
 > | **Favoured Weapon** | Claws, teeth, or a gleaming greatsword |
 > | **Holy Day(s)** | The Day of Ascension, festivals of justice, and skyward vigils |
 
-**Mahatu** is the god of good dragons and the embodiment of honour and justice. Once bound to **Namiut**, the goddess of evil dragons, Mahatu now stands as a beacon of light and protection for all mortals. Legends speak of his noble heart and his desire to safeguard the world from evil, particularly the corrupt forces that Namiut now commands. Mahatu is revered by those who value justice, honour, and the protection of the innocent.
+**Mahatu** is the **god of good dragons** and the embodiment of honour and justice. Once bound to **[[../The Lost/Namiut|Namiut]]**, the goddess of evil dragons, Mahatu now stands as a beacon of light and protection for all mortals. Legends speak of his noble heart and his desire to safeguard the world from evil, particularly the corrupt forces that [[../The Lost/Namiut|Namiut]] now commands. Mahatu is revered by those who value justice, honour, and the protection of the innocent.
 
 # Description
 Mahatu is depicted as a vast, awe-inspiring platinum dragon, his scales gleaming with a celestial radiance. His wings are said to span the horizon, while his eyes glow with an ancient, powerful wisdom. His voice is like a deep rumble, comforting yet commanding, carrying the weight of millennia of experience. His appearance radiates purity and strength, and in battle, his very presence is enough to turn the tide in favour of the righteous.
@@ -36,9 +36,9 @@ Mahatu is a god of unwavering principles, devoted to the protection of the weak 
 While stern in his judgement of evil, Mahatu is compassionate and merciful to those who seek redemption. His patience is vast, but when evil must be confronted, he acts swiftly and decisively, showing no hesitation in defending the innocent. He is a tactical thinker, often weighing the long-term consequences of his actions to ensure that justice prevails not only in the present but for generations to come.
 
 # Relationships
-Once bound to **Namiut**, the goddess of evil dragons, Mahatu was her equal, and together they ruled over the domain of dragons as neutral embodiments of draconic power. However, as life began to take root in Verak’eal, the differences between them became clear. While Namiut sought to dominate and corrupt, Mahatu believed in protecting and uplifting the weak. Their bond shattered, and they became mortal enemies.
+Once bound to [[../The Lost/Namiut|Namiut]], the goddess of evil dragons, Mahatu was her equal, and together they ruled over the domain of dragons as neutral embodiments of draconic power. However, as life began to take root in Verak’eal, the differences between them became clear. While [[../The Lost/Namiut|Namiut]] sought to dominate and corrupt, Mahatu believed in protecting and uplifting the weak. Their bond shattered, and they became mortal enemies.
 
-Mahatu’s closest allies are gods like **Dathin** (god of the sun and light) and **Timnar** (god of law), who share his values of justice and protection. Together, they often act as a shield against the forces of darkness. Mahatu views the Lost, particularly **Namiut** and **Fax** (god of domination), with contempt, seeing them as direct threats to the order and balance of the world.
+Mahatu’s closest allies are gods like [[./Dathin|Dathin]] (god of the sun and light) and [[./Timnar|Timnar]] (god of law), who share his values of justice and protection. Together, they often act as a shield against the forces of darkness. Mahatu views the Lost, particularly [[../The Lost/Namiut|Namiut]] and [[../The Lost/Fax|Fax]] (god of domination), with contempt, seeing them as direct threats to the order and balance of the world.
 
 # Worshippers
 Mahatu’s followers are champions of justice and defenders of the weak. His temples are built like fortresses, often serving as sanctuaries for those in need and training grounds for knights and paladins. His worshippers include dragonborn who see themselves as part of his celestial lineage, as well as humans, elves, and other races who seek to uphold the ideals of honour and righteousness.
@@ -55,11 +55,11 @@ His clergy are often skilled warriors or diplomats, as Mahatu encourages both st
 - "The strength of a true protector lies not in their might, but in their mercy."
 
 # History
-Mahatu and **Namiut** were once two sides of the same coin, embodiments of the raw elemental power of dragons. Together, they ruled their domain with balance, neither good nor evil. But when life began to bloom in Verak’eal, their paths diverged. Namiut was seduced by power and sought to subjugate the weaker creatures, while Mahatu saw himself as their protector, believing that dragons should use their strength to shield the vulnerable.
+Mahatu and [[../The Lost/Namiut|Namiut]] were once two sides of the same coin, embodiments of the raw elemental power of dragons. Together, they ruled their domain with balance, neither good nor evil. But when life began to bloom in Verak’eal, their paths diverged. [[../The Lost/Namiut|Namiut]] was seduced by power and sought to subjugate the weaker creatures, while Mahatu saw himself as their protector, believing that dragons should use their strength to shield the vulnerable.
 
-As Namiut’s heart darkened, Mahatu’s resolve strengthened. When the **Shatter** began, he quickly sided with the **Grey**, becoming one of their greatest generals. His leadership in the field was crucial, as his tactical mind and raw power turned the tide in many battles against the Lost. Throughout the war, Mahatu fought not for glory, but to protect the balance of the world and to oppose the growing evil of Namiut and her allies.
+As [[../The Lost/Namiut|Namiut]]’s heart darkened, Mahatu’s resolve strengthened. When the Shatter began, he quickly sided with the Grey, becoming one of their greatest generals. His leadership in the field was crucial, as his tactical mind and raw power turned the tide in many battles against the Lost. Throughout the war, Mahatu fought not for glory, but to protect the balance of the world and to oppose the growing evil of [[../The Lost/Namiut|Namiut]] and her allies.
 
-After the Shatter, Mahatu returned to his celestial domain, but his presence is still felt in the world through the dragons that bear his bloodline. He continues to watch over the realms, ever vigilant against the resurgence of evil, especially from Namiut and her twisted brood of evil dragons.
+After the Shatter, Mahatu returned to his celestial domain, but his presence is still felt in the world through the dragons that bear his bloodline. He continues to watch over the realms, ever vigilant against the resurgence of evil, especially from [[../The Lost/Namiut|Namiut]] and her twisted brood of evil dragons.
 
 # Tenets of Faith
 Mahatu’s followers live by these commandments:

@@ -1,0 +1,1 @@
+Rikerach is a kingdom central on the continent of [[./Thymios|Thymios]]

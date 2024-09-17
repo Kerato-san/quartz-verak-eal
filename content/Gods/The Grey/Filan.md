@@ -23,7 +23,7 @@
 > | **Favoured Weapon** | Tooth and claw, or a bow |
 > | **Holy Day(s)** | The Night of the Wild Hunt, solstices, and full moons |
 
-**Filan** is the ancient god of animals and the primal forces of the wilderness. He was one of the first gods to shape life, creating the beasts that roam Verak'eal. Filan embodies both the fierce savagery and the delicate balance of nature, and he despises the encroachment of civcivilizationto the wilds. Though his true form is unknown, he is often depicted as a great wolf, black as the night or crackling with lightning, depending on the temperament of those who worship him.
+**Filan** is the ancient **god of animals**. He was one of the first gods to shape life, creating the beasts that roam Verak'eal. Filan embodies both the fierce savagery and the delicate balance of nature, and he despises the encroachment of civcivilizationto the wilds. Though his true form is unknown, he is often depicted as a great wolf, black as the night or crackling with lightning, depending on the temperament of those who worship him.
 
 # Description
 Filan takes many forms, but the most common depictions of him are either a towering black wolf with eyes glowing like stars in the night sky or a massive white wolf made entirely of crackling lightning. His fur seems to blend into the shadows of the forest, or the storm clouds in the sky, depending on his mood. Some stories also describe him as appearing in the form of other great beasts, from towering stags to mighty eagles, embodying the primal strength and untamed freedom of the animals he watches over.
@@ -36,9 +36,9 @@ Filan is a god of primal balance. He does not favour one side of nature over the
 Though revered for his wisdom, Filan is often seen as distant and inscrutable. He is not a god who intoften interferesth mortal affairs unless the natural balance is under severe threat. His followers revere him not for his kindness, but for his raw, untamed power and his understanding of the natural order. To him, savagery is not evil, but a necessary aspect of the wild.
 
 # Relationships
-Filan’s closest ally is **Nedarin**, goddess of nature, who laid the groundwork for his creation of life. Together, they maintain the balance of the natural world, though Filan’s focus on animals sometimes places him in conflict with the encroachment of civilisations. He shares a respectful, if distant, relationship with **Rindra** (goddess of knowledge and discovery), appreciating those who seek to understand nature without seeking to tame it.
+Filan’s closest ally is [[./Nedarin|Nedarin]], goddess of nature, who laid the groundwork for his creation of life. Together, they maintain the balance of the natural world, though Filan’s focus on animals sometimes places him in conflict with the encroachment of civilisations. He shares a respectful, if distant, relationship with [[./Rindra|Rindra]] (goddess of knowledge and discovery), appreciating those who seek to understand nature without seeking to tame it.
 
-Filan harbours a deep enmity towards **Pentath** (god of destruction), whose unchecked chaos threatens the delicate balance of the wild, and **Wendel** (god of greed), who represents the worst of mortal excess in the exploitation of nature. He has little interest in the affairs of the Grey or the Lost, preferring to act independently, driven only by the needs of the wild.
+Filan harbours a deep enmity towards [[../The Lost/Pentath|Pentath]] (god of destruction), whose unchecked chaos threatens the delicate balance of the wild, and [[../The Lost/Wendel|Wendel]] (god of greed), who represents the worst of mortal excess in the exploitation of nature. He has little interest in the affairs of the Grey or the Lost, preferring to act independently, driven only by the needs of the wild.
 
 # Worshippers
 Filan’s followers are often those who live in close connection with nature, such as rangers, druids, and shamans. His most devout worshippers include hunters who seek to live in harmony with the wild, only taking what they need and giving back to the land. Beastmasters and those who tame animals for battle or companionship often invoke Filan’s blessing, trusting in his guidance to strengthen the bond between human and beast.
@@ -55,9 +55,9 @@ His temples are not traditional buildings, but sacred groves and hidden glades, 
 - "In the hunt, we find the truth of the wild."
 
 # History
-Filan was among the first of the gods to shape the world, giving life to the creatures of the wilderness after **Nedarin** crafted the forests, rivers, and plains. In the **Age of Gods**, he roamed freely across the lands, guiding the animals and ensuring that the balance of predator and prey remained intact. When mortals began to spread across the world, he viewed them with caution, watching as they began to encroach upon the wilderness.
+Filan was among the first of the gods to shape the world, giving life to the creatures of the wilderness after [[./Nedarin|Nedarin]] crafted the forests, rivers, and plains. In the Age of Gods, he roamed freely across the lands, guiding the animals and ensuring that the balance of predator and prey remained intact. When mortals began to spread across the world, he viewed them with caution, watching as they began to encroach upon the wilderness.
 
-However, when the war between the **Grey** and the **Lost** began, the wilds became a battlefield. Filan’s creatures were often caught in the crossfire, either slaughtered as collateral or used as sacrifices by the Lost, who sought to corrupt the natural order for their own gain.
+However, when the war between the Grey and the Lost began, the wilds became a battlefield. Filan’s creatures were often caught in the crossfire, either slaughtered as collateral or used as sacrifices by the Lost, who sought to corrupt the natural order for their own gain.
 
 Initially, Filan kept to the deep wilderness, defending his domain and avoiding the conflict. But as the destruction spread, and more of his creatures fell to the brutality of the war, he was forced to act. Reluctantly, he joined the Grey, not out of loyalty to their cause, but to protect the animals and wild places that were being ravaged by the chaos. Filan fought fiercely, ensuring that the wilderness and its creatures would survive the conflict.
 
