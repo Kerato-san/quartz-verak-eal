@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Zarilith.png|../ZZ Images/Zarilith.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Zarilith
 > #### Basic Information
 > |  |   |
