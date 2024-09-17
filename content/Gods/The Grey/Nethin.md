@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Nethin.png|../ZZ Images/Nethin.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Nethin
 > #### Basic Information
 > |  |   |
