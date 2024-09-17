@@ -38,7 +38,7 @@ While Zarilith can be charming and persuasive, her motives are always self-servi
 # Relationships
 Zarilith was once a trusted ally of [[../The Grey/Sheleth|Sheleth]] (god of beauty), but her hunger for control over elven destiny led to her betrayal. When [[../The Grey/Sheleth|Sheleth]] discovered her seduction of the elves, corrupting their beauty and grace into something twisted, he cursed her, transforming her lower body into that of a monstrous centipede and banishing her to the Underdark. This act marked the beginning of the drow’s fall from grace.
 
-Among the gods of The Lost, Zarilith is a key figure. She fought alongside [[./Fax|Fax]] (god of domination) and [[./Pentath|Pentath]] (god of destruction) during the Shatter, believing that chaos and betrayal would give her greater control over destiny. While she has allies among the Lost, even they do not fully trust her, for Zarilith’s ambition has no bounds, and she would betray anyone if it meant advancing her goals.
+Among the gods of [[../The Lost Pantheon|The Lost]], Zarilith is a key figure. She fought alongside [[./Fax|Fax]] (god of domination) and [[./Pentath|Pentath]] (god of destruction) during [[../../The Shatter and The War of The Shatter|The Shatter]], believing that chaos and betrayal would give her greater control over destiny. While she has allies among [[../The Lost Pantheon|The Lost]], even they do not fully trust her, for Zarilith’s ambition has no bounds, and she would betray anyone if it meant advancing her goals.
 
 # Worshippers
 Zarilith’s worshippers are primarily the drow, who revere her as their dark matron and queen. Her teachings of ambition, betrayal, and power-through-deceit are the foundation of drow society. Within their underground cities, power struggles and assassinations are common, as every drow vies for Zarilith’s favour. Her influence is seen in the drow’s ruthless political structure, where only the most cunning survive.
@@ -59,7 +59,7 @@ Zarilith’s story is one of ambition, betrayal, and transformation. Once a godd
 
 When [[../The Grey/Sheleth|Sheleth]] discovered her treachery, he cursed Zarilith, transforming her into the half-drow, half-centipede form she now inhabits, and banished her to the Underdark. The elves who had followed her into the shadows were transformed by the Underdark into the drow, and Zarilith became their queen and patron deity. 
 
-During the Shatter, Zarilith fought alongside the Lost, seeking to use the chaos of war to seize control over the destiny of Verak’eal. Her cunning and ambition made her a formidable ally of [[./Fax|Fax]] and [[./Pentath|Pentath]], though even they kept a wary distance from her. Though the Shatter confined the gods’ influence, Zarilith’s hold over the drow remained strong, and she continues to shape their society from the shadows.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Zarilith fought alongside [[../The Lost Pantheon|The Lost]], seeking to use the chaos of war to seize control over the destiny of Verak’eal. Her cunning and ambition made her a formidable ally of [[./Fax|Fax]] and [[./Pentath|Pentath]], though even they kept a wary distance from her. Though [[../../The Shatter and The War of The Shatter|The Shatter]] confined the gods’ influence, Zarilith’s hold over the drow remained strong, and she continues to shape their society from the shadows.
 
 # Tenets of Faith
 Her followers adhere to these commandments:
