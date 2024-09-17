@@ -1,5 +1,5 @@
 > [!infobox]  
-> > ![[../ZZ Images/Pentath.png|../ZZ Images/Pentath.png]]  
+> ![[../ZZ Images/Pentath.png|../ZZ Images/Pentath.png]]  
 > # Pentath  
 > #### Basic Information  
 > |  |  |  
@@ -34,11 +34,11 @@ Pentath is a god of pure, unrelenting destruction. He finds bliss in the collaps
 He despises order, civilisation, and anything that represents stability or permanence. While he harbours a particular hatred for the gods of creation, law, and protection, Pentath’s enmity extends to any being that seeks to preserve or protect the world.
 
 # Relationships  
-Pentath is reviled by most of the gods, both among the Lost and the Grey. His absolute desire for destruction leaves little room for alliances, though he does form temporary partnerships with gods whose goals align with his, albeit briefly. He shares a tenuous relationship with [[./Fax|Fax]], the god of domination, as both seek to subjugate the world—though Pentath ultimately wishes to destroy everything, including [[./Fax|Fax]]’s dominion.
+Pentath is reviled by most of the gods, both among [[../The Lost Pantheon|The Lost]] and [[../The Grey Pantheon|The Grey]]. His absolute desire for destruction leaves little room for alliances, though he does form temporary partnerships with gods whose goals align with his, albeit briefly. He shares a tenuous relationship with [[./Fax|Fax]], the god of domination, as both seek to subjugate the world—though Pentath ultimately wishes to destroy everything, including [[./Fax|Fax]]’s dominion.
 
 [[./Namiut|Namiut]], the goddess of evil dragons, is an ally by convenience, as they both revel in the destructive nature of their followers. However, even she treads carefully around Pentath, knowing that his appetite for ruin may turn on her one day. Pentath also respects [[./Nethira|Nethira]], the goddess of deceit, who uses subterfuge and manipulation to tear apart societies from within, hastening their collapse.
 
-Among the gods of the Grey, Pentath’s most bitter rival is [[../The Grey/Varida|Varida]], the Stone Mother, whose worshippers revere creation and craft. Her efforts to build and preserve are the antithesis of Pentath’s destructive nature, and their clashes often leave devastation in their wake. [[../The Grey/Timnar|Timnar]], the god of law, also opposes Pentath with every fibre of his being, as Pentath represents the ultimate breakdown of order and civilisation. [[../The Grey/Sheleth|Sheleth]], the god of art, also stands in opposition, as Pentath’s wrath targets the very beauty and creativity that [[../The Grey/Sheleth|Sheleth]] cherishes.
+Among the gods of [[../The Grey Pantheon|The Grey]], Pentath’s most bitter rival is [[../The Grey/Varida|Varida]], the Stone Mother, whose worshippers revere creation and craft. Her efforts to build and preserve are the antithesis of Pentath’s destructive nature, and their clashes often leave devastation in their wake. [[../The Grey/Timnar|Timnar]], the god of law, also opposes Pentath with every fibre of his being, as Pentath represents the ultimate breakdown of order and civilisation. [[../The Grey/Sheleth|Sheleth]], the god of art, also stands in opposition, as Pentath’s wrath targets the very beauty and creativity that [[../The Grey/Sheleth|Sheleth]] cherishes.
 
 # Worshippers  
 Pentath’s worshippers are those who crave the end of all things. His followers include nihilists who believe that nothing matters except destruction, warlords who seek to crush their enemies, and anarchists who desire the collapse of civilisation. Cults devoted to Pentath often operate in secret, sowing chaos and ruin wherever they go. These cults embrace a destructive philosophy, burning cities, toppling kingdoms, and bringing devastation in their wake. 
@@ -55,7 +55,7 @@ His priests teach that life, art, and order are transient illusions, and the onl
 - "Everything built is destined to fall."
 
 # History  
-Pentath’s role in the Age of Gods was one of sheer devastation. He played a pivotal role in the divine wars, bringing ruin to both mortal and divine realms alike. During the Shatter, Pentath fought alongside the Lost, seeking to tear down the fabric of reality itself. His rampages during the war left entire planes shattered and broken, their remnants still littered with the scars of his fury. Though the Lost were ultimately defeated, Pentath’s influence remains potent, as his followers continue to wreak havoc across Verak’eal.
+Pentath’s role in the Age of Gods was one of sheer devastation. He played a pivotal role in the divine wars, bringing ruin to both mortal and divine realms alike. During [[../../The Shatter and The War of The Shatter|The Shatter]], Pentath fought alongside [[../The Lost Pantheon|The Lost]], seeking to tear down the fabric of reality itself. His rampages during the war left entire planes shattered and broken, their remnants still littered with the scars of his fury. Though [[../The Lost Pantheon|The Lost]] were ultimately defeated, Pentath’s influence remains potent, as his followers continue to wreak havoc across Verak’eal.
 
 Some of his most fanatical followers believe that Pentath’s imprisonment within the Abyssal Void is only temporary, and that when he escapes, the Epoch of Ends will begin. This apocalyptic prophecy speaks of a time when Pentath will destroy not only the world of Verak’eal, but the very planes of existence, leaving nothing but void in his wake.
 
