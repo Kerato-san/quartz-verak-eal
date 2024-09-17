@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Timnar.png|../ZZ Images/Timnar.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Timnar
 > #### Basic Information
 > |  |   |
