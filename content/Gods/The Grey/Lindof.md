@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Lindof.png|../ZZ Images/Lindof.png]]  
+> ![[../ZZ Images/Lindof.png|../ZZ Images/Lindof.png]]  
 > # Lindof
 > #### Basic Information
 > |  |   |
@@ -57,7 +57,7 @@ Temples dedicated to Lindof are often structured like fortresses, with arenas fo
 # History
 Lindof has always been a god of war, and his history is filled with tales of great battles fought against other deities and mortal champions alike. He has crossed blades with many of his fellow gods, but his sense of honour and fairness has allowed him to repair most of those relationships. He believes that every fight is an opportunity to prove one’s strength, but only if fought with honour.
 
-During the Shatter, Lindof eagerly joined the Grey in their war against the Lost. The Lost, with their deceitful and underhanded tactics, represented everything Lindof stood against. He fought with unmatched strength and honour during the Shatter, ensuring that the forces of chaos were driven back and that the world could be rebuilt on principles of fairness and strength.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Lindof eagerly joined [[../The Grey Pantheon|The Grey]] in their war against [[../The Lost Pantheon|The Lost]]. [[../The Lost Pantheon|The Lost]], with their deceitful and underhanded tactics, represented everything Lindof stood against. He fought with unmatched strength and honour during [[../../The Shatter and The War of The Shatter|The Shatter]], ensuring that the forces of chaos were driven back and that the world could be rebuilt on principles of fairness and strength.
 
 After the war, Lindof returned to his realm, continuing to oversee battles fought in his name, always ensuring that his followers adhere to the principles of honourable combat.
 
