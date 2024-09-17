@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Serah.png|../ZZ Images/Serah.png]]  
+> ![[../ZZ Images/Serah.png|../ZZ Images/Serah.png]]  
 > # Serah
 > #### Basic Information
 > |  |   |
@@ -59,9 +59,9 @@ Her rituals often involve the celebration of love in all its forms, from the qui
 # History
 During the Age of Gods, Serah’s presence was felt as a warm and radiant force, bringing love and joy to mortals and gods alike. She believed that through love, the world could find peace and harmony, and she actively encouraged unions between mortals and even between different races and cultures.
 
-When the war between the Grey and the Lost began, Serah took on a supporting role, working behind the scenes to heal the hearts of those left devastated by loss and ensuring that love would continue to flourish even in the darkest of times. Her power was subtle but immensely important in maintaining morale and unity among the Grey.
+When the war between [[../The Grey Pantheon|The Grey]] and [[../The Lost Pantheon|The Lost]] began, Serah took on a supporting role, working behind the scenes to heal the hearts of those left devastated by loss and ensuring that love would continue to flourish even in the darkest of times. Her power was subtle but immensely important in maintaining morale and unity among [[../The Grey Pantheon|The Grey]].
 
-During the Shatter, Serah focused her energies on comforting those who had lost loved ones in the conflict, ensuring that they found peace even in death. Her influence helped heal the rifts that had begun to form between some of the gods, and her calming presence was a beacon of hope. After the war, she returned to her role as the goddess of love, her influence felt in every loving embrace, every act of kindness, and every passionate work of art created in her name.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Serah focused her energies on comforting those who had lost loved ones in the conflict, ensuring that they found peace even in death. Her influence helped heal the rifts that had begun to form between some of the gods, and her calming presence was a beacon of hope. After the war, she returned to her role as the goddess of love, her influence felt in every loving embrace, every act of kindness, and every passionate work of art created in her name.
 
 # Tenets of Faith
 Serah’s followers live by these principles:
