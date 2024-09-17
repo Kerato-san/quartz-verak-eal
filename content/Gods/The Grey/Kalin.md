@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Kalin.png|../ZZ Images/Kalin.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Kalin
 > #### Basic Information
 > |  |   |
