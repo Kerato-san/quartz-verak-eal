@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Nedarin.png|../ZZ Images/Nedarin.png]]  
+> ![[../ZZ Images/Nedarin.png|../ZZ Images/Nedarin.png]]  
 > # Nedarin
 > #### Basic Information
 > |  |   |
@@ -57,7 +57,7 @@ Her worshippers are encouraged to live in harmony with their surroundings, takin
 # History
 Nedarin was among the first gods to shape the world, bringing verdant life to barren lands. She created the forests, plains, and jungles that would become the home for countless creatures. During the Age of Gods, Nedarin's influence spread, as the natural world flourished across Verak'eal. Her ability to create life attracted the attention of other gods, particularly [[./Filan|Filan]], who saw the landscapes she crafted as the perfect environment for his animals.
 
-As mortals began to establish civilizations, Nedarin did not oppose their expansion, provided that they respected the natural balance. However, during the war between the Grey and the Lost, many of her forests were ravaged, burned, or corrupted. Nedarin joined the Grey in their struggle to preserve the natural world from the devastation wrought by the Lost, ensuring that nature would endure through the Shatter. After the conflict, she focused on restoring the damaged lands, nurturing the forests back to their full glory.
+As mortals began to establish civilizations, Nedarin did not oppose their expansion, provided that they respected the natural balance. However, during the war between [[../The Grey Pantheon|The Grey]] and [[../The Lost Pantheon|The Lost]], many of her forests were ravaged, burned, or corrupted. Nedarin joined [[../The Grey Pantheon|The Grey]] in their struggle to preserve the natural world from the devastation wrought by [[../The Lost Pantheon|The Lost]], ensuring that nature would endure through [[../../The Shatter and The War of The Shatter|The Shatter]]. After the conflict, she focused on restoring the damaged lands, nurturing the forests back to their full glory.
 
 # Tenets of Faith
 Nedarin’s followers adhere to these guiding principles:
