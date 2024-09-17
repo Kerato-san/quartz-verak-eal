@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Atheca.png|../ZZ Images/Atheca.png]]  
+> ![[../ZZ Images/Atheca.png|../ZZ Images/Atheca.png]]  
 > # Atheca
 > #### Basic Information
 > |  |   |
@@ -55,9 +55,9 @@ Her festivals are chaotic affairs, with magical duels, spell showcases, and disp
 - "Through chaos, all mysteries shall be revealed."
 
 # History
-Atheca’s role in the Age of Gods was marked by her rebellion against the established order. She defied the gods who sought to monopolize magic, secretly teaching mortals how to harness arcane power without the need for divine intervention. This act set in motion a wave of magical discovery that eventually spread throughout Verak’eal. During the Shatter, her support of the Grey was born not out of loyalty to order, but a belief that even the gods should not hold ultimate sway over magic.
+Atheca’s role in the Age of Gods was marked by her rebellion against the established order. She defied the gods who sought to monopolize magic, secretly teaching mortals how to harness arcane power without the need for divine intervention. This act set in motion a wave of magical discovery that eventually spread throughout Verak’eal. During [[../../The Shatter and The War of The Shatter|The Shatter]], her support of [[../The Grey Pantheon|The Grey]] was born not out of loyalty to order, but a belief that even the gods should not hold ultimate sway over magic.
 
-After the Shatter, Atheca retreated to her own plane, where she continues to manipulate the flow of magical energy across the multiverse. She is ever watchful of those who innovate, seeking out mortals who push the boundaries of magic to further her own goals.
+After [[../../The Shatter and The War of The Shatter|The Shatter]], Atheca retreated to her own plane, where she continues to manipulate the flow of magical energy across the multiverse. She is ever watchful of those who innovate, seeking out mortals who push the boundaries of magic to further her own goals.
 
 # Tenets of Faith
 Her followers adhere to these principles:
