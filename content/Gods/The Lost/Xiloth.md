@@ -60,9 +60,9 @@ Xiloth’s followers are fanatical in their dedication, seeking out ways to caus
 - "Through torment, we honour the Mistress."
 
 # History
-Xiloth was once a being of lesser power, feeding on the fear and agony of the mortal realm. However, as chaos erupted during the **Shatter**, she rose in power, drawing strength from the suffering caused by the wars between gods and mortals. She joined the ranks of **The Lost**, eagerly embracing the opportunity to spread even greater pain and destruction. 
+Xiloth was once a being of lesser power, feeding on the fear and agony of the mortal realm. However, as chaos erupted during the **Shatter**, she rose in power, drawing strength from the suffering caused by the wars between gods and mortals. She joined the ranks of **[[../The Lost Pantheon|The Lost]]**, eagerly embracing the opportunity to spread even greater pain and destruction. 
 
-She was known to capture both gods and mortals alike, torturing them until their will broke and they swore allegiance to the Lost. Her role in the divine conflict was that of a ruthless interrogator, extracting secrets and sowing fear. During the Shatter, Xiloth led armies of sadistic followers, leaving entire cities in ruins, their inhabitants left to suffer in unspeakable torment. Though The Lost were defeated, Xiloth’s influence did not fade, and she remains a constant threat to the mortal realms.
+She was known to capture both gods and mortals alike, torturing them until their will broke and they swore allegiance to [[../The Lost Pantheon|The Lost]]. Her role in the divine conflict was that of a ruthless interrogator, extracting secrets and sowing fear. During [[../../The Shatter and The War of The Shatter|The Shatter]], Xiloth led armies of sadistic followers, leaving entire cities in ruins, their inhabitants left to suffer in unspeakable torment. Though [[../The Lost Pantheon|The Lost]] were defeated, Xiloth’s influence did not fade, and she remains a constant threat to the mortal realms.
 
 # Tenets of Faith
 Xiloth’s followers adhere to these tenets:
