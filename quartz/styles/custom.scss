@@ -2,6 +2,9 @@
 
 // put your custom CSS here!
 
+a.internal {
+    background-color:transparent;
+}
 
 p, ul, text, a, tr, td, li, ol, ul, .katex, .math {
     hyphens: none;
