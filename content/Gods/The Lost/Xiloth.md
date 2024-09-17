@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Xiloth.png|../ZZ Images/Xiloth.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Xiloth
 > #### Basic Information
 > |  |   |

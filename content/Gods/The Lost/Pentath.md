@@ -1,5 +1,5 @@
 > [!infobox]  
-> ![[../ZZ Images/Pentath.png|../ZZ Images/Pentath.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Pentath  
 > #### Basic Information  
 > |  |  |  

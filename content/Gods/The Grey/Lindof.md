@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Lindof.png|../ZZ Images/Lindof.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Lindof
 > #### Basic Information
 > |  |   |

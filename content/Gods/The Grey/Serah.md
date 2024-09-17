@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Serah.png|../ZZ Images/Serah.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Serah
 > #### Basic Information
 > |  |   |

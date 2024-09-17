@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Hekoda.png|../ZZ Images/Hekoda.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Hekoda
 > #### Basic Information
 > |  |   |

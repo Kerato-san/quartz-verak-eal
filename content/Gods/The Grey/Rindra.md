@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Rindra.png|../ZZ Images/Rindra.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Rindra
 > #### Basic Information
 > |  |   |

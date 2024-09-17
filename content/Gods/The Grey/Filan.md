@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Filan.png|../ZZ Images/Filan.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Filan
 > #### Basic Information
 > |  |   |

@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Wendel.png|../ZZ Images/Wendel.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Wendel
 > #### Basic Information
 > |  |   |

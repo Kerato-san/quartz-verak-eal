@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Mahatu.png|../ZZ Images/Mahatu.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Mahatu
 > #### Basic Information
 > |  |   |

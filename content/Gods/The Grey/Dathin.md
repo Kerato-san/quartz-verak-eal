@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Dathin.png|../ZZ Images/Dathin.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Dathin
 > #### Basic Information
 > |  |   |

@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Varida.png|../ZZ Images/Varida.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Varida
 > #### Basic Information
 > |  |   |

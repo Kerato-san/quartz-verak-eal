@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Sheleth.png|../ZZ Images/Sheleth.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Sheleth
 > #### Basic Information
 > |  |   |
