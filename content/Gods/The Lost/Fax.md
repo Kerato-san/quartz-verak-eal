@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Fax.png|../ZZ Images/Fax.png]]  
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]  
 > # Fax
 > #### Basic Information
 > |  |   |
