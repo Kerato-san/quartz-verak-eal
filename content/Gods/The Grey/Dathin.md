@@ -1,4 +1,3 @@
-
 > [!infobox]
 > > ![[../ZZ Images/Dathin.png|../ZZ Images/Dathin.png]]  
 > # Dathin
@@ -24,7 +23,7 @@
 > | **Favoured Weapon** | Mace |
 > | **Holy Day(s)** | The Day of Redemption, equinoxes, dawn prayers |
 
-**Dathin** is the god of the sun, life, and light. He is a powerful deity representing the forces of good and compassion in Verak’eal. His light brings healing to the suffering and offers redemption to those who seek it. Dathin believes in the inherent goodness within every mortal and is known for his teachings on mercy and the chance for redemption, even for the darkest souls. His radiance serves as a beacon of hope, lighting the way for those lost in darkness.
+**Dathin** is the **god of the sun, life, and light**. He is a powerful deity representing the forces of good and compassion in Verak’eal. His light brings healing to the suffering and offers redemption to those who seek it. Dathin believes in the inherent goodness within every mortal and is known for his teachings on mercy and the chance for redemption, even for the darkest souls. His radiance serves as a beacon of hope, lighting the way for those lost in darkness.
 
 # Description
 Dathin often manifests as a towering, radiant figure draped in flowing white and gold robes. His form seems to emanate a warm, golden glow, so bright that few can look upon him directly without being overwhelmed by the sheer intensity of his light. His eyes are orbs of pure radiance, and his hair flows like molten sunlight. Dathin’s mere presence is soothing, and his touch is said to be able to heal the gravest of wounds and restore hope to the despairing. His voice is calm yet powerful, like a comforting ray of sunlight at dawn.
@@ -54,7 +53,7 @@ Worshippers refer to Dathin in prayers at dawn, and many of his rituals take pla
 - "Through light, all wounds may heal."
 
 # History
-Dathin played a pivotal role in the Age of Gods, working alongside [[./The Porcelain Queen|The Porcelain Queen]] to enact the **Shatter**, which ended the war with the Lost by dividing the planes and confining the gods’ influence. His role in the Shatter cemented his place as a god of light and hope, but also one who understood the necessity of limiting divine power for the greater good.
+Dathin played a pivotal role in the Age of Gods, working alongside [[./The Porcelain Queen|The Porcelain Queen]] to enact the Shatter, which ended the war with the Lost by dividing the planes and confining the gods’ influence. His role in the Shatter cemented his place as a god of light and hope, but also one who understood the necessity of limiting divine power for the greater good.
 
 His light has not dimmed in the years since, and he remains a key figure in the Grey Pantheon. Many mortals revere Dathin for his role in keeping the Lost at bay, though some criticize his unwavering optimism and his belief that even the most corrupted souls can be redeemed.
 

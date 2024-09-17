@@ -22,7 +22,7 @@
 > | **Favoured Weapon** | Warhammer |
 > | **Holy Day(s)** | The Day of Creation, seasonal crafting festivals |
 
-**Dinarul** is the god of craft, creation, and perfection. His domain spans from the smallest crafted trinket to the vastness of entire worlds. He is revered by those who seek to master a craft, whether it be the forging of weapons, the construction of great monuments, or the art of invention. Dinarul embodies the relentless pursuit of perfection, a drive that pushes mortals to improve their skills and leave a lasting mark on the world.
+**Dinarul** is the **god of craft and creation**. His domain spans from the smallest crafted trinket to the vastness of entire worlds. He is revered by those who seek to master a craft, whether it be the forging of weapons, the construction of great monuments, or the art of invention. Dinarul embodies the relentless pursuit of perfection, a drive that pushes mortals to improve their skills and leave a lasting mark on the world.
 
 # Description
 Dinarul is often depicted as a towering, muscular figure, clad in the simple yet grand attire of a blacksmith. His arms are thick with the strength of endless labour, and his hands bear the marks of countless projects, yet they remain steady and sure in their precision. His hair and beard are said to be wrought from molten metal, flowing like liquid gold, and his eyes burn with the eternal flame of creation. In some depictions, sparks and embers float around him, representing the ongoing work of his divine forge.
@@ -33,9 +33,9 @@ Dinarul is a god of focus, discipline, and unwavering determination. He cares li
 While Dinarul is neutral in most matters of conflict, he has little patience for those who destroy needlessly or waste potential. He believes in the preservation of creation, not for sentimental reasons, but because the destruction of something well-made is the destruction of progress itself. His perfectionist nature can make him seem distant or demanding, but those who earn his favour are often blessed with inspiration and unmatched skill.
 
 # Relationships
-Dinarul has few close alliances among the gods, as his focus on craft often isolates him from the concerns of others. However, he respects and occasionally collaborates with gods like **[[./Timnar|Timnar]]** (god of law), who shares his appreciation for structure and order, and **[[./Varida|Varida]]** (goddess of forge and stone), with whom he shares a love of the forge. Together, they are often invoked by those who work in stone or metal.
+Dinarul has few close alliances among the gods, as his focus on craft often isolates him from the concerns of others. However, he respects and occasionally collaborates with gods like [[./Timnar|Timnar]] (god of law), who shares his appreciation for structure and order, and [[./Varida|Varida]] (goddess of forge and stone), with whom he shares a love of the forge. Together, they are often invoked by those who work in stone or metal.
 
-Dinarul opposes destructive deities such as **[[../The Lost/Pentath|Pentath]]** (god of destruction), seeing them as anathema to the principles of creation. He also holds contempt for **[[../The Lost/Wendel|Wendel]]** (god of greed), who he views as someone who hoards wealth without understanding the labour and skill required to create it. In contrast, he has a distant but respectful relationship with **[[./Mahatu|Mahatu]]** (god of good dragons), who protects the creations of the world.
+Dinarul opposes destructive deities such as [[../The Lost/Pentath|Pentath]] (god of destruction), seeing them as anathema to the principles of creation. He also holds contempt for [[../The Lost/Wendel|Wendel]] (god of greed), who he views as someone who hoards wealth without understanding the labour and skill required to create it. In contrast, he has a distant but respectful relationship with [[./Mahatu|Mahatu]] (god of good dragons), who protects the creations of the world.
 
 # Worshippers
 Dinarul's followers are the craftsmen and women of Verak’eal, from the humble village blacksmith to the most renowned artificers. They value skill, patience, and dedication to their craft above all else. In his temples, great forges and workshops serve as places of both worship and creation, where his followers can hone their abilities under his watchful eye. 
@@ -52,9 +52,9 @@ His clergy often act as master artisans, overseeing guilds, teaching apprentices
 - "A well-forged tool can build a legacy."
 
 # History
-Dinarul played a pivotal role during the **Age of Gods**, crafting weapons, armour, and artefacts for both the gods and mortals alike. When the war between the Grey and the Lost broke out, Dinarul initially remained neutral, choosing to focus on his work. However, as the conflict escalated, he saw how his creations were being used for destruction and sided with the Grey, believing that the war needed to end to preserve the art of creation.
+Dinarul played a pivotal role during the Age of Gods, crafting weapons, armour, and artefacts for both the gods and mortals alike. When the war between the Grey and the Lost broke out, Dinarul initially remained neutral, choosing to focus on his work. However, as the conflict escalated, he saw how his creations were being used for destruction and sided with the Grey, believing that the war needed to end to preserve the art of creation.
 
-During the **Shatter**, Dinarul crafted many of the artefacts that helped the Grey succeed, though his focus remained on ensuring that the planes themselves remained intact. After the war, he retreated to his Great Workshop, where he continues to perfect his craft, now creating objects of unimaginable power and beauty, only revealing them when the world is ready.
+During the Shatter, Dinarul crafted many of the artefacts that helped the Grey succeed, though his focus remained on ensuring that the planes themselves remained intact. After the war, he retreated to his Great Workshop, where he continues to perfect his craft, now creating objects of unimaginable power and beauty, only revealing them when the world is ready.
 
 # Tenets of Faith
 Dinarul’s followers adhere to these core principles:

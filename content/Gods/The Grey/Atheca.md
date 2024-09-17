@@ -23,7 +23,7 @@
 > | **Favoured Weapon** | Staff or wand |
 > | **Holy Day(s)** | The Festival of Unveiling, solstices, midnight rituals |
 
-**Atheca** is the goddess of arcane magic and the untamed flow of knowledge in Verak'eal. She gifted mortals with the ability to wield magic independently of the gods, a defiance that set her apart from many of her divine peers. Atheca thrives on innovation and chaos, believing that magic is a force that should be constantly explored, shaped, and moulded by those with the will to do so.
+**Atheca** is the **goddess of arcane magic**. She gifted mortals with the ability to wield magic independently of the gods, a defiance that set her apart from many of her divine peers. Atheca thrives on innovation and chaos, believing that magic is a force that should be constantly explored, shaped, and moulded by those with the will to do so.
 
 # Description
 Atheca often manifests as a figure cloaked in shifting magical energies, her form constantly rippling between solid and ethereal. Her hair is said to be woven from pure arcane threads, with glowing runes embedded throughout. She bears no single appearance, but is frequently depicted as a youthful woman with eyes that shimmer with endless knowledge. The colours of her robes change in sync with the magic flowing around her, reflecting the untamed power she represents. In some manifestations, her hands spark with chaotic energy, hinting at the sheer unpredictability of her magic.
@@ -55,7 +55,7 @@ Her festivals are chaotic affairs, with magical duels, spell showcases, and disp
 - "Through chaos, all mysteries shall be revealed."
 
 # History
-Atheca’s role in the Age of Gods was marked by her rebellion against the established order. She defied the gods who sought to monopolize magic, secretly teaching mortals how to harness arcane power without the need for divine intervention. This act set in motion a wave of magical discovery that eventually spread throughout Verak’eal. During the **Shatter**, her support of the Grey was born not out of loyalty to order, but a belief that even the gods should not hold ultimate sway over magic.
+Atheca’s role in the Age of Gods was marked by her rebellion against the established order. She defied the gods who sought to monopolize magic, secretly teaching mortals how to harness arcane power without the need for divine intervention. This act set in motion a wave of magical discovery that eventually spread throughout Verak’eal. During the Shatter, her support of the Grey was born not out of loyalty to order, but a belief that even the gods should not hold ultimate sway over magic.
 
 After the Shatter, Atheca retreated to her own plane, where she continues to manipulate the flow of magical energy across the multiverse. She is ever watchful of those who innovate, seeking out mortals who push the boundaries of magic to further her own goals.
 
