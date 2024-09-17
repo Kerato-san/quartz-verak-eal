@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[../ZZ Images/Namiut.png|../ZZ Images/Namiut.png]]  
+> ![[../../ZZ Images/FemPlaceHolder.png|../../ZZ Images/FemPlaceHolder.png]]  
 > # Namiut
 > #### Basic Information
 > |  |   |
