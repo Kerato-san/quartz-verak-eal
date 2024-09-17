@@ -59,9 +59,9 @@ His clerics and paladins act as enforcers of both divine and mortal law, ensurin
 # History
 Timnar played a central role during the Age of Gods, where his influence helped shape the first laws that governed both gods and mortals alike. He believed that without structure, the world would fall into chaos, and so he tirelessly worked to create a set of universal laws that could guide civilization forward. His teachings became the cornerstone of many early societies, laying the foundation for governments, courts, and military orders dedicated to preserve the peace.
 
-During the Shatter, when the Grey fought against the Lost, Timnar’s role became one of discipline and order. While chaos raged across the planes, Timnar stood firm, ensuring that the armies of the Grey were organized, lawful, and focused. He crafted strategies that balanced defence with justice, ensuring that the Grey upheld their ideals even in the heat of battle. Many believe that without Timnar’s guidance, the Grey would have succumbed to the chaos unleashed by the Lost gods.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], when [[../The Grey Pantheon|The Grey]] fought against [[../The Lost Pantheon|The Lost]], Timnar’s role became one of discipline and order. While chaos raged across the planes, Timnar stood firm, ensuring that the armies of [[../The Grey Pantheon|The Grey]] were organized, lawful, and focused. He crafted strategies that balanced defence with justice, ensuring that [[../The Grey Pantheon|The Grey]] upheld their ideals even in the heat of battle. Many believe that without Timnar’s guidance, [[../The Grey Pantheon|The Grey]] would have succumbed to the chaos unleashed by [[../The Lost Pantheon|The Lost]] gods.
 
-In the aftermath of the Shatter, Timnar’s influence continued to shape civilizations. His worshippers sought to rebuild and improve the laws that had been fractured during the divine conflict, holding firm to his belief that law is never complete—it must evolve to achieve true justice for all. Timnar’s followers now spread his teachings, ensuring that the letter of the law is followed, and that civilization can thrive under its protection.
+In the aftermath of [[../../The Shatter and The War of The Shatter|The Shatter]], Timnar’s influence continued to shape civilizations. His worshippers sought to rebuild and improve the laws that had been fractured during the divine conflict, holding firm to his belief that law is never complete—it must evolve to achieve true justice for all. Timnar’s followers now spread his teachings, ensuring that the letter of the law is followed, and that civilization can thrive under its protection.
 
 # Tenets of Faith
 Timnar’s followers live by these commandments:
@@ -70,5 +70,5 @@ Timnar’s followers live by these commandments:
 - Do not flinch in the execution of your duty, no matter what the consequence.
 
 # Prophets
-- **Justicar Veldrin**: A legendary paladin of Timnar who led the charge in restoring law and order after the Shatter. Veldrin’s strict adherence to the law and his tireless efforts to reform broken societies earned him the title of Timnar’s greatest servant.
+- **Justicar Veldrin**: A legendary paladin of Timnar who led the charge in restoring law and order after [[../../The Shatter and The War of The Shatter|The Shatter]]. Veldrin’s strict adherence to the law and his tireless efforts to reform broken societies earned him the title of Timnar’s greatest servant.
 - **Magister Elric**: A renowned scholar who is credited with writing the **Code of the Eternal Law**, a legal tome that is said to be inspired directly by Timnar’s divine teachings. This code serves as the basis for many legal systems across Verak’eal.
