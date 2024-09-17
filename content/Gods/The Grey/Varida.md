@@ -38,9 +38,9 @@ Though she spends much of her time in the solitude of the deep, forging and craf
 # Relationships
 Varida’s most significant relationship is with her creation and eventual husband, **Tordas**, the first dwarf. Their union gave rise to the dwarven race, who continue to honour both Varida and Tordas as their divine parents. Varida cherishes the dwarves as her children, guiding them in their crafts and their communities.
 
-Varida is a close ally of **Dinarul**, god of craft and perfection. The two share a mutual respect, often collaborating on grand projects that combine Varida’s knowledge of stone and metals with Dinarul’s perfectionist attention to detail. Together, they are revered by artisans and craftsmen across Verak’eal.
+Varida is a close ally of **[[./Dinarul|Dinarul]]**, god of craft and perfection. The two share a mutual respect, often collaborating on grand projects that combine Varida’s knowledge of stone and metals with [[./Dinarul|Dinarul]]’s perfectionist attention to detail. Together, they are revered by artisans and craftsmen across Verak’eal.
 
-She also maintains a cordial relationship with **Timnar**, god of law, as both deities value order, structure, and the building blocks of civilisation. However, she disapproves of deities like **Pentath** (god of destruction), whose chaotic forces seek to tear down what she and her followers build.
+She also maintains a cordial relationship with **[[./Timnar|Timnar]]**, god of law, as both deities value order, structure, and the building blocks of civilisation. However, she disapproves of deities like **[[../The Lost/Pentath|Pentath]]** (god of destruction), whose chaotic forces seek to tear down what she and her followers build.
 
 # Worshippers
 Varida’s followers are most commonly found among dwarves, blacksmiths, masons, miners, and architects. In short, anyone who works with stone, metal, or craftsmanship. Her temples are often vast underground halls, filled with forges, anvils, and grand statues carved from the living rock. These temples double as workshops where her followers hone their crafts and contribute to the community by creating weapons, armour, and structures that serve the greater good.
