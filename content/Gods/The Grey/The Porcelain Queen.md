@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Porcelain_Queen.png|../ZZ Images/Porcelain_Queen.png]]  
+> ![[../ZZ Images/Porcelain_Queen.png|../ZZ Images/Porcelain_Queen.png]]  
 > # The Porcelain Queen
 > #### Basic Information
 > |  |   |
