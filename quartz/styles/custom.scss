@@ -1,6 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+iframe.pinboard {
+    width: 110%;
+    height: 70vh;
+    border: 0px;
+    margin-left: -5%;
+}
+
 
 a.internal {
     background-color:transparent;
