@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Dathin.png|../ZZ Images/Dathin.png]]  
+> > ![[../ZZ Images/Atheca.png|../ZZ Images/Atheca.png]]  
 > # Atheca
 > #### Basic Information
 > |  |   |
@@ -34,11 +34,11 @@ Atheca is unpredictable, impulsive, and fiercely independent. She encourages her
 However, Atheca is not without a darker side. Her insistence that magic is for all has led some to dangerous pursuits, unlocking powers beyond their control. Other gods, especially those of law and order, view her as a reckless force that could undo the very fabric of reality if left unchecked. Despite this, Atheca holds to her belief that mortals must be free to shape their destinies with magic, for better or worse.
 
 # Relationships
-Atheca’s relationships with other gods are complex. She is neither an ally nor an enemy to most, but her interactions are often marked by tension. She shares a begrudging respect with **Rindra**, goddess of knowledge, though they differ in their views on how information should be controlled. 
+Atheca’s relationships with other gods are complex. She is neither an ally nor an enemy to most, but her interactions are often marked by tension. She shares a begrudging respect with [[./Rindra|Rindra]], goddess of knowledge, though they differ in their views on how information should be controlled. 
 
-Atheca's greatest rivalry is with **Timnar**, god of law, who views her chaotic influence on mortals as reckless and dangerous. Their followers often find themselves in opposition, with Atheca’s wizards pushing the boundaries of arcane power, while Timnar’s paladins seek to regulate and contain such power.
+Atheca's greatest rivalry is with [[./Timnar|Timnar]], god of law, who views her chaotic influence on mortals as reckless and dangerous. Their followers often find themselves in opposition, with Atheca’s wizards pushing the boundaries of arcane power, while [[./Timnar|Timnar]]’s paladins seek to regulate and contain such power.
 
-Among her closest allies is **Nethin**, the goddess of secrets and trickery, as both deities revel in the hidden and the unknown. Together, they often scheme to upend the plans of more structured gods, delighting in the confusion and upheaval their actions cause.
+Among her closest allies is [[./Nethin|Nethin]], the goddess of secrets and trickery, as both deities revel in the hidden and the unknown. Together, they often scheme to upend the plans of more structured gods, delighting in the confusion and upheaval their actions cause.
 
 # Worshippers
 Atheca’s followers are typically found at the edges of society, pushing the boundaries of what is possible with magic. Many wizards, sorcerers, and arcanists revere her as the source of all arcane knowledge. Her temples are not static places of worship, but dynamic centres where magical experiments are conducted, often with little regard for the risks involved. Her priests preach the gospel of freedom through knowledge, encouraging their followers to defy the status quo and seek power wherever it may be hidden.

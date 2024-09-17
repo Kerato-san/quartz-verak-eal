@@ -2,7 +2,7 @@
 type: character
 status: alive
 aliases:
-  - Gideon
+  - Megan
 ---
 
 ## Personal history
