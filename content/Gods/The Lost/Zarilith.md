@@ -26,7 +26,7 @@
 **Zarilith** is the dark Matron of the drow, a goddess who embodies corruption, ambition, and the twisted manipulation of destiny. Once a trusted companion of Sheleth, the god of beauty, Zarilith desired greater control over elven destiny. Her greed led her to betray Sheleth, and as punishment, she was cursed with a monstrous form, half-drow and half-centipede, and cast into the Underdark. Her followers, the drow, mirror her ambition and cruelty, thriving in a society where betrayal is a path to power.
 
 # Description
-Zarilith appears as a striking and terrifying figure. Her upper half is the image of dark elven beauty, with smooth black-blue skin, white hair cascading like silk, and eyes of molten amber. Her lower body, however, is that of a massive centipede, with hundreds of legs that writhe and click against the stone floors of her realm. This monstrous form symbolises the corruption that has overtaken her once noble nature. Her eyes, piercing and glowing, are said to see through any deception—except her own.
+Zarilith appears as a striking and terrifying figure. Her upper half is the image of dark elven beauty, with smooth black-blue skin, white hair cascading like silk, and eyes of molten amber. Her lower body, however, is that of a massive centipede, with hundreds of legs that writhe and click against the stone floors of her realm. This monstrous form symbolises the corruption that has overtaken her once noble nature. Her eyes, piercing and glowing, are said to see through any deception, except her own.
 
 In some depictions, venom drips from her lips, and her voice is said to be a honeyed poison, weaving lies and ambition into the minds of her followers. Around her, shadows move unnaturally, as if alive with her will.
 
