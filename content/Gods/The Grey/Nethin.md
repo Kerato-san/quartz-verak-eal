@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Nethin.png|../ZZ Images/Nethin.png]]  
+> ![[../ZZ Images/Nethin.png|../ZZ Images/Nethin.png]]  
 > # Nethin
 > #### Basic Information
 > |  |   |
@@ -57,7 +57,7 @@ Her worshippers celebrate the night and the mysteries it holds. Many temples to 
 # History
 Nethin’s role in the Age of Gods was one of mischief and subtle influence. She meddled in the affairs of both mortals and gods alike, often using her illusions to turn the tide of battle or to expose hidden truths that others wished to keep concealed. Her playful nature earned her both friends and enemies, though her true allegiances remained mysterious throughout the divine conflicts. 
 
-During [[../../General History#The Shatter|The Shatter]], Nethin played a behind-the-scenes role, using her illusions to protect key figures of the Grey from assassination and sabotage by the Lost. While her efforts were vital to the Grey’s success, some gods questioned whether Nethin had ulterior motives, given her penchant for deception. After the war, she retreated to her Midnight Veil, content to let mortals and gods alike wonder about her true intentions.
+During [[../../General History#The Shatter|The Shatter]], Nethin played a behind-the-scenes role, using her illusions to protect key figures of [[../The Grey Pantheon|The Grey]] from assassination and sabotage by [[../The Lost Pantheon|The Lost]]. While her efforts were vital to [[../The Grey Pantheon|The Grey]]’s success, some gods questioned whether Nethin had ulterior motives, given her penchant for deception. After the war, she retreated to her Midnight Veil, content to let mortals and gods alike wonder about her true intentions.
 
 # Tenets of Faith
 Nethin’s followers abide by these tenets:

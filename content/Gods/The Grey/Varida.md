@@ -61,9 +61,9 @@ Varida spent much of her time in solitude, living deep within the earth, masteri
 
 Tordas proved to be not only a skilled companion in the forge but also a source of love for Varida. In time, she confessed her feelings to him, and he returned her love, presenting her with a beautifully crafted armour he had forged as a gift. In return, Varida gave him her most precious possession, her anvil, symbolizing the heart of her divine power. From their union, the first dwarves were born, inheriting Varida’s strength and Tordas’ skill.
 
-During the Shatter, Varida fought alongside the Grey, using her mastery of stone and metal to forge the weapons and armour that equipped their forces. She provided stability and protection, fortifying strongholds with her divine craftsmanship and ensuring that the armies of the Grey were well-supplied. Her forges never cooled during the conflict, churning out artefacts of immense power to protect the planes from the destructive forces of the Lost. Her creations became legendary, with weapons of such fine quality that they were believed to be indestructible.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Varida fought alongside [[../The Grey Pantheon|The Grey]], using her mastery of stone and metal to forge the weapons and armour that equipped their forces. She provided stability and protection, fortifying strongholds with her divine craftsmanship and ensuring that the armies of [[../The Grey Pantheon|The Grey]] were well-supplied. Her forges never cooled during the conflict, churning out artefacts of immense power to protect the planes from the destructive forces of [[../The Lost Pantheon|The Lost]]. Her creations became legendary, with weapons of such fine quality that they were believed to be indestructible.
 
-After the Shatter, Varida retreated to her deep halls, continuing her work, though the dwarves now live as her legacy on the surface and in the mountains of Verak'eal.
+After [[../../The Shatter and The War of The Shatter|The Shatter]], Varida retreated to her deep halls, continuing her work, though the dwarves now live as her legacy on the surface and in the mountains of Verak'eal.
 
 # Tenets of Faith
 Varida’s followers adhere to these core principles:

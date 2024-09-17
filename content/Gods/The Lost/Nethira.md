@@ -1,5 +1,5 @@
 > [!infobox]  
-> > ![[../ZZ Images/Nethira.png|../ZZ Images/Nethira.png]]  
+> ![[../ZZ Images/Nethira.png|../ZZ Images/Nethira.png]]  
 > # Nethira  
 > #### Basic Information  
 > |  |  |  
@@ -34,9 +34,9 @@ Nethira embodies the essence of deceit, thriving on manipulation, shadows, and s
 She revels in the notion that truth is a weapon, and in her hands, it is twisted, inverted, and made into something poisonous. While many gods have desires for power, dominion, or protection, Nethira seems only to care for one thing: the control and destruction of her enemies through intricate deceit.
 
 # Relationships  
-Nethira is universally feared and distrusted, even among the Lost. Her alliances, when they exist, are always fragile and full of hidden agendas. She despises [[../The Grey/Nethin|Nethin]], her supposed twin, for [[../The Grey/Nethin|Nethin]]’s use of trickery to reveal rather than obscure. The two goddesses have been locked in a cold war of manipulation and subterfuge for ages, with each attempting to undo the other’s plans. Nethira’s hatred of [[../The Grey/Nethin|Nethin]] is matched only by her contempt for the Grey Pantheon as a whole, particularly [[../The Grey/Rindra|Rindra]], the goddess of knowledge, whose pursuit of truth stands in direct opposition to Nethira’s desire to keep truths hidden and distorted.
+Nethira is universally feared and distrusted, even among [[../The Lost Pantheon|The Lost]]. Her alliances, when they exist, are always fragile and full of hidden agendas. She despises [[../The Grey/Nethin|Nethin]], her supposed twin, for [[../The Grey/Nethin|Nethin]]’s use of trickery to reveal rather than obscure. The two goddesses have been locked in a cold war of manipulation and subterfuge for ages, with each attempting to undo the other’s plans. Nethira’s hatred of [[../The Grey/Nethin|Nethin]] is matched only by her contempt for [[../The Grey Pantheon|The Grey]] Pantheon as a whole, particularly [[../The Grey/Rindra|Rindra]], the goddess of knowledge, whose pursuit of truth stands in direct opposition to Nethira’s desire to keep truths hidden and distorted.
 
-Nethira has found allies in the likes of [[./Zarilith|Zarilith]], the centipede queen and matron of the drow, and [[./Namiut|Namiut]], the goddess of evil dragons, both of whom share her love for domination and betrayal. Together, they plot to destabilise the Grey and spread their influence through covert means. Nethira’s relationship with [[./Fax|Fax]], the god of domination, is one of convenience, as she often provides him with the subtle manipulations necessary for his conquests. However, even he cannot fully trust her.
+Nethira has found allies in the likes of [[./Zarilith|Zarilith]], the centipede queen and matron of the drow, and [[./Namiut|Namiut]], the goddess of evil dragons, both of whom share her love for domination and betrayal. Together, they plot to destabilise [[../The Grey Pantheon|The Grey]] and spread their influence through covert means. Nethira’s relationship with [[./Fax|Fax]], the god of domination, is one of convenience, as she often provides him with the subtle manipulations necessary for his conquests. However, even he cannot fully trust her.
 
 Despite her alliances, Nethira is a solitary figure, weaving plots that are often hidden even from her closest allies. Her only true loyalty is to herself and the darkness she represents.
 
@@ -56,9 +56,9 @@ Her priests are adept at using poison, shadow magic, and psychological torment t
 - "Secrets are the foundation of power, for the one who knows all cannot be defeated."  
 
 # History  
-Nethira’s origins are shrouded in mystery, fitting for the goddess of deceit. Some say she was once an aspect of [[../The Grey/Nethin|Nethin]], the goddess of secrets and trickery, who was split apart during the divine conflict that led to the Shatter. Others believe she is [[../The Grey/Nethin|Nethin]]’s twin, born from the same essence but corrupted by a desire for chaos and destruction. Regardless of her true origins, Nethira quickly rose to prominence among the Lost, using her unparalleled skill in manipulation and lies to turn allies against each other and sow discord.
+Nethira’s origins are shrouded in mystery, fitting for the goddess of deceit. Some say she was once an aspect of [[../The Grey/Nethin|Nethin]], the goddess of secrets and trickery, who was split apart during the divine conflict that led to [[../../The Shatter and The War of The Shatter|The Shatter]]. Others believe she is [[../The Grey/Nethin|Nethin]]’s twin, born from the same essence but corrupted by a desire for chaos and destruction. Regardless of her true origins, Nethira quickly rose to prominence among [[../The Lost Pantheon|The Lost]], using her unparalleled skill in manipulation and lies to turn allies against each other and sow discord.
 
-During the Shatter, Nethira played a pivotal role in destabilising the Grey’s forces, whispering lies and half-truths that caused rifts among the gods. She worked behind the scenes, orchestrating betrayals and sabotaging plans, though her true motives remained hidden even from her closest allies. While the Lost were ultimately defeated, Nethira emerged unscathed, retreating into the shadows to continue her schemes. Many believe that she still operates in the world, manipulating events from behind the scenes, though her true purpose remains unknown.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Nethira played a pivotal role in destabilising [[../The Grey Pantheon|The Grey]]’s forces, whispering lies and half-truths that caused rifts among the gods. She worked behind the scenes, orchestrating betrayals and sabotaging plans, though her true motives remained hidden even from her closest allies. While [[../The Lost Pantheon|The Lost]] were ultimately defeated, Nethira emerged unscathed, retreating into the shadows to continue her schemes. Many believe that she still operates in the world, manipulating events from behind the scenes, though her true purpose remains unknown.
 
 # Tenets of Faith  
 Her followers follow these commandments:  

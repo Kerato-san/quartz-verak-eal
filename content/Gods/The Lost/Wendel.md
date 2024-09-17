@@ -57,9 +57,9 @@ Wendel's followers are those who seek wealth and power above all else. Merchants
 - "Greed is the engine that drives all progress."
 
 # History
-Before the Shatter, Wendel’s greed was unmatched. He accumulated wealth in all forms, gold, artefacts, land, through any means necessary. However, during the Shatter, his hoarded treasures were scattered across the planes. Despite this setback, Wendel continued to influence mortals, teaching them the ways of greed and accumulation.
+Before [[../../The Shatter and The War of The Shatter|The Shatter]], Wendel’s greed was unmatched. He accumulated wealth in all forms, gold, artefacts, land, through any means necessary. However, during [[../../The Shatter and The War of The Shatter|The Shatter]], his hoarded treasures were scattered across the planes. Despite this setback, Wendel continued to influence mortals, teaching them the ways of greed and accumulation.
 
-During the Shatter, Wendel supported The Lost in hopes of gaining even more power. Though they ultimately lost the war, Wendel's teachings of greed and ambition persisted, and his influence remains strong in the mortal world.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Wendel supported [[../The Lost Pantheon|The Lost]] in hopes of gaining even more power. Though they ultimately lost the war, Wendel's teachings of greed and ambition persisted, and his influence remains strong in the mortal world.
 
 # Tenets of Faith
 Wendel's followers adhere to these core principles:

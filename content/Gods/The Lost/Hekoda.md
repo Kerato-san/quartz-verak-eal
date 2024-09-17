@@ -58,8 +58,8 @@ His temples are not places of peace or quiet worship. Instead, they are blood-so
 **Hekoda’s Role in the Age of Gods**  
 Hekoda’s rise to power came during the most violent eras of the Age of Gods, when war and bloodshed swept across the planes. He thrived in the chaos, feeding off the hatred of mortals and gods alike, and gaining strength from every act of violence. His teachings of survival through destruction spread quickly, especially among barbarian tribes and warmongers.
 
-**Hekoda and the Shatter**  
-During the Shatter, Hekoda fought fiercely alongside the Lost, seeing the war as an opportunity to purge the weak and reshape the planes into a realm of endless destruction. He led his most brutal followers into battle, leaving ruin in their wake. Despite the defeat of the Lost, Hekoda's rage never subsided, and his followers continue to seek power through conquest, awaiting the day when they can rise again and spread his fury across the world.
+**Hekoda and [[../../The Shatter and The War of The Shatter|The Shatter]]**  
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Hekoda fought fiercely alongside [[../The Lost Pantheon|The Lost]], seeing the war as an opportunity to purge the weak and reshape the planes into a realm of endless destruction. He led his most brutal followers into battle, leaving ruin in their wake. Despite the defeat of [[../The Lost Pantheon|The Lost]], Hekoda's rage never subsided, and his followers continue to seek power through conquest, awaiting the day when they can rise again and spread his fury across the world.
 
 # Tenets of Faith
 Hekoda’s followers adhere to these commandments:

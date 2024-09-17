@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Dinarul.png|../ZZ Images/Dinarul.png]]  
+> ![[../ZZ Images/Dinarul.png|../ZZ Images/Dinarul.png]]  
 > # Dinarul
 > #### Basic Information
 > |  |   |
@@ -52,9 +52,9 @@ His clergy often act as master artisans, overseeing guilds, teaching apprentices
 - "A well-forged tool can build a legacy."
 
 # History
-Dinarul played a pivotal role during the Age of Gods, crafting weapons, armour, and artefacts for both the gods and mortals alike. When the war between the Grey and the Lost broke out, Dinarul initially remained neutral, choosing to focus on his work. However, as the conflict escalated, he saw how his creations were being used for destruction and sided with the Grey, believing that the war needed to end to preserve the art of creation.
+Dinarul played a pivotal role during the Age of Gods, crafting weapons, armour, and artefacts for both the gods and mortals alike. When the war between [[../The Grey Pantheon|The Grey]] and [[../The Lost Pantheon|The Lost]] broke out, Dinarul initially remained neutral, choosing to focus on his work. However, as the conflict escalated, he saw how his creations were being used for destruction and sided with [[../The Grey Pantheon|The Grey]], believing that the war needed to end to preserve the art of creation.
 
-During the Shatter, Dinarul crafted many of the artefacts that helped the Grey succeed, though his focus remained on ensuring that the planes themselves remained intact. After the war, he retreated to his Great Workshop, where he continues to perfect his craft, now creating objects of unimaginable power and beauty, only revealing them when the world is ready.
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Dinarul crafted many of the artefacts that helped [[../The Grey Pantheon|The Grey]] succeed, though his focus remained on ensuring that the planes themselves remained intact. After the war, he retreated to his Great Workshop, where he continues to perfect his craft, now creating objects of unimaginable power and beauty, only revealing them when the world is ready.
 
 # Tenets of Faith
 Dinarul’s followers adhere to these core principles:

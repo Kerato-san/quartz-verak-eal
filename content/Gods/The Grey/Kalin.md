@@ -60,10 +60,10 @@ Her clergy act as mentors and motivators, encouraging those under their care to 
 **Kalin and the Rise of Mortals**  
 Kalin’s influence was crucial in the early development of mortal society, particularly in the realms of commerce, magic, and invention. She was the first to inspire merchants to experiment with new methods of trade, helping them introduce the concept of currency, bartering, and complex market systems. Her hand also guided the early development of magic and science, encouraging mortals to approach their studies with trial and error rather than fear of failure.
 
-**Kalin’s Role in the Shatter**  
-During the Shatter, Kalin stood firmly with the Grey, promoting innovative strategies to counter the chaos of the Lost. She motivated the armies of the Grey to experiment with new tactics, leading to unexpected victories. Her relentless positivity helped keep spirits high during the darkest times, as she reminded mortals and gods alike that even in failure, there are lessons to be learned.
+**Kalin’s Role in [[../../The Shatter and The War of The Shatter|The Shatter]]**  
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Kalin stood firmly with [[../The Grey Pantheon|The Grey]], promoting innovative strategies to counter the chaos of [[../The Lost Pantheon|The Lost]]. She motivated the armies of [[../The Grey Pantheon|The Grey]] to experiment with new tactics, leading to unexpected victories. Her relentless positivity helped keep spirits high during the darkest times, as she reminded mortals and gods alike that even in failure, there are lessons to be learned.
 
-After the Shatter, Kalin focused on rebuilding the world, inspiring her followers to innovate and experiment as they restored civilisation. Many of the post-Shatter advancements in magic, commerce, and technology are attributed to her influence, as her followers continued to push boundaries and seek out new ways to better the world.
+After [[../../The Shatter and The War of The Shatter|The Shatter]], Kalin focused on rebuilding the world, inspiring her followers to innovate and experiment as they restored civilisation. Many of the post-Shatter advancements in magic, commerce, and technology are attributed to her influence, as her followers continued to push boundaries and seek out new ways to better the world.
 
 # Tenets of Faith
 Kalin’s followers adhere to these guiding principles:

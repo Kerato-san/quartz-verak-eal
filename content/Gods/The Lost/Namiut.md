@@ -1,5 +1,5 @@
 > [!infobox]
-> > ![[../ZZ Images/Namiut.png|../ZZ Images/Namiut.png]]  
+> ![[../ZZ Images/Namiut.png|../ZZ Images/Namiut.png]]  
 > # Namiut
 > #### Basic Information
 > |  |   |
@@ -63,8 +63,8 @@ Namiut and [[../The Grey/Mahatu|Mahatu]] were once the dual forces of draconic c
 **The Betrayal**  
 Namiut’s betrayal was swift and ruthless. She sought to corrupt dragons, turning them into malevolent forces of destruction. Her greed and ambition drove her to seek domination over all, believing that those who could not defend themselves were not worthy of existence. Namiut’s corruption led many dragons to follow her, birthing the chromatic dragons and creating a lasting rift between her and [[../The Grey/Mahatu|Mahatu]], whose metallic dragons opposed her.
 
-**Role in the Shatter**  
-During the Shatter, Namiut fought fiercely on the side of The Lost, using her chromatic dragons to sow chaos and destruction across the realms. She believed the Shatter was her opportunity to seize ultimate power, but despite her efforts, The Lost were ultimately defeated. Though the Shatter failed to bring about her domination, Namiut has not given up, and she continues to plot from the shadows, waiting for the right moment to strike again.
+**Role in [[../../The Shatter and The War of The Shatter|The Shatter]]**  
+During [[../../The Shatter and The War of The Shatter|The Shatter]], Namiut fought fiercely on the side of [[../The Lost Pantheon|The Lost]], using her chromatic dragons to sow chaos and destruction across the realms. She believed [[../../The Shatter and The War of The Shatter|The Shatter]] was her opportunity to seize ultimate power, but despite her efforts, [[../The Lost Pantheon|The Lost]] were ultimately defeated. Though [[../../The Shatter and The War of The Shatter|The Shatter]] failed to bring about her domination, Namiut has not given up, and she continues to plot from the shadows, waiting for the right moment to strike again.
 
 # Tenets of Faith
 Her followers follow these commandments:
