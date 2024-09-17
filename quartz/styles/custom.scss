@@ -23,12 +23,15 @@ ul.overflow {
     max-height: calc(100vh - 30rem);
 }
 
+ul {
+    margin-block-start: 0rem;
+}
+
 [saved-theme="dark"] .callout[data-callout="infobox"] {
     --color: #000000;
     --border: #197bbb;
     --bg: #197bbb3b;
-
-    
+    --headerbg: #197bbb6c;
 }
 
 :not(.popover>.popover-inner)>.popover-hint>.callout[data-callout="infobox"] {
@@ -46,6 +49,7 @@ display: none;
     --color: #000000;
     --border: #ab9276;
     --bg: #c0902938;
+    --headerbg: #c090296c;
     --callout-icon: url("data:image/svg+xml; utf8, <custom formatted svg>"); //SVG icon code
 
     margin: 0;
@@ -61,9 +65,13 @@ display: none;
     }
 
     :is(h4, h5, h6){
-        margin: 0.5rem;
+        margin: 0%;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
         font-family: var(--bodyFont);
         font-weight: 700;
+        background-color: var(--headerbg);
+        width: 100%;
     }
 
     p:has(img){
@@ -98,9 +106,12 @@ display: none;
                 background-color: var(--bg);
             }
             thead{
+                display: none;
+                height: 0px;
                 background-color: var(--bg);
                 tr{
                     background-color: var(--bg);
+                    height: 0px;
                 }
             }
             th{
