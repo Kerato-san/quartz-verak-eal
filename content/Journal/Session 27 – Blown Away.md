@@ -10,9 +10,9 @@ However, before they can contemplate their next move, the echoes of a heavy thud
 
 Looking closely, they notice that the walls are adorned with rows of wind symbols, all pointing ominously towards the spiked wall. The pattern is interrupted only in the middle of the tunnel by three rows of symbols pointing in the opposite direction, towards what was once their entrance but is now simply another segment of wall adorned with the same enigmatic symbols.
 
-When Megan steps off the three central rows of tiles, the runes on both dead ends of the tunnel begin to radiate with energy. Suddenly, a ferocious gale erupts, transforming the once-still tunnel into a roaring wind tunnel. The group is caught off guard as the howling wind thrusts them perilously towards the wall of spikes.
+When [[../Characters/Player Characters/Megan Wattson|Megan]] steps off the three central rows of tiles, the runes on both dead ends of the tunnel begin to radiate with energy. Suddenly, a ferocious gale erupts, transforming the once-still tunnel into a roaring wind tunnel. The group is caught off guard as the howling wind thrusts them perilously towards the wall of spikes.
 
-In this moment of crisis, they rely on both physical ingenuity and magical aids. Ropes become lifelines, and Megan’s magical floating disks offer crucial support. Despite their efforts, some members of the group are caught by the spikes' cruel embrace. With swift action, they manage to free the impaled before any fatal damage can be inflicted.
+In this moment of crisis, they rely on both physical ingenuity and magical aids. Ropes become lifelines, and [[../Characters/Player Characters/Megan Wattson|Megan]]’s magical floating disks offer crucial support. Despite their efforts, some members of the group are caught by the spikes' cruel embrace. With swift action, they manage to free the impaled before any fatal damage can be inflicted.
 
 Amidst the chaos, Sir Roderick discerns the solution to their predicament. By strategically placing weight on the right side of the central circle, they discover it acts as a massive wheel. As they manipulate the circle, the three centre rows of the tunnel begin to rotate, moving the sealed door into alignment with the opposite side. With a final, concerted effort, they align the door, and as it swings open, the torrential winds abruptly cease, granting them a moment of respite and the passage to continue their perilous journey.
 
@@ -26,4 +26,4 @@ The walls are adorned with painted reliefs, each telling a part of a grand narra
 
 Above, the ceiling features a breathtaking mural of a flight of dragons, all seeming to converge towards the dais at the chamber's end. The group speculates that the red triangle might be the very artifact they seek.
 
-Megan, drawing on intuition, suggests placing Alokir’s sword in the hands of the dragonborn statue on the dais. This act triggers a hidden mechanism, revealing a door behind the dais. Through this newly uncovered passage, Archimedes is able to fly and retrieve a red pyramid-shaped crystal from within a sarcophagus in the adjoining room, presumably the sought-after artifact.
+[[../Characters/Player Characters/Megan Wattson|Megan]], drawing on intuition, suggests placing Alokir’s sword in the hands of the dragonborn statue on the dais. This act triggers a hidden mechanism, revealing a door behind the dais. Through this newly uncovered passage, Archimedes is able to fly and retrieve a red pyramid-shaped crystal from within a sarcophagus in the adjoining room, presumably the sought-after artifact.
