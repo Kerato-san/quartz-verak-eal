@@ -1,6 +1,8 @@
 ---
 type: character
 status: alive
+aliases:
+  - Ander
 ---
 > [!infobox]
 > # Ander Janessy
