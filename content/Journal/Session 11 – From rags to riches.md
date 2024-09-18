@@ -18,8 +18,8 @@ Their journey is fraught with danger, as they sneak through alleys, jump fences,
 
 Their stealthy approach lasts until the edge of town. As they stand in the eerie stillness of the dimly lit street, the sounds of shuffling feet and moans of the undead echo through the air, sending shivers down their spines. The group is surrounded by a horde of zombies, with more emerging from the alleyway ahead, their decomposing bodies drawing ever closer.
 
-Roderick, ever the quick thinker, sees their dire situation and comes up with a daring plan. With a glint in his eye, he reaches into his bag and pulls out a bottle. In a bold move, he hurls it down the dark alley, hoping to draw the zombies away from the group and buy them some time to make a break for safety.
+[[../Characters/Player Characters/Roderick Fremont|Roderick]], ever the quick thinker, sees their dire situation and comes up with a daring plan. With a glint in his eye, he reaches into his bag and pulls out a bottle. In a bold move, he hurls it down the dark alley, hoping to draw the zombies away from the group and buy them some time to make a break for safety.
 
-But fate seems to be against them as the bottle shatters at their feet, attracting the attention of the relentless zombies. The group watches in horror as Roderick fumbles, his daring plan quickly turning into a nightmare. The horde of zombies turn their attention towards the source of the noise, their shuffling footsteps growing louder, closer, as they advance upon the group.
+But fate seems to be against them as the bottle shatters at their feet, attracting the attention of the relentless zombies. The group watches in horror as [[../Characters/Player Characters/Roderick Fremont|Roderick]] fumbles, his daring plan quickly turning into a nightmare. The horde of zombies turn their attention towards the source of the noise, their shuffling footsteps growing louder, closer, as they advance upon the group.
 
 The group draws their weapons, steeling themselves for the fight of their lives.
