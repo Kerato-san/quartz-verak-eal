@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *10 Sirorev 1524*
 
 As the group prepares for a potential attack, the tension in the air becomes palpable. [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]], known for his unconventional methods, takes it upon himself to smash open the door and confront the source of the disturbance. The room is filled with armed warrior, who immediately recognize [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] as one of the strangers they were ordered to apprehend.
