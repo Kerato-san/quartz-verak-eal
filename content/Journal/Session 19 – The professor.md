@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 _19 Sirorev 1524_
 
 According to Suhana, the mercenaries had been expecting the group, and Ravi Singh was interested in both them and Suhana herself. This interest likely stemmed from the possibility of recovering relics from the temple that Dr. Gupta might find during his expedition. Suhana raised concerns about Dr. Gupta possibly being watched.
