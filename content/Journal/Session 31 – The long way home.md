@@ -20,7 +20,7 @@ The group quickly devises a strategy to handle the situation. They decide to sen
 
 Remaining in disguise, he takes to the skies, flying directly towards the portalis. His aerial approach is a strategic move to avoid detection and to swiftly reunite with the rest of the group, who are waiting at the portalis, ready for their next steps.
 
-In this latest venture through the portalis, only Suhana, Roderick, and [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] experience any discomfort, each becoming nauseous from the teleportation. Once they have sufficiently recovered, the group proceeds to the University. Along the way, [[../Characters/Player Characters/Megan Wattson|Megan]] discreetly broaches the subject of what they intend to do with the artifact they've acquired.
+In this latest venture through the portalis, only Suhana, [[../Characters/Player Characters/Roderick Fremont|Roderick]], and [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] experience any discomfort, each becoming nauseous from the teleportation. Once they have sufficiently recovered, the group proceeds to the University. Along the way, [[../Characters/Player Characters/Megan Wattson|Megan]] discreetly broaches the subject of what they intend to do with the artifact they've acquired.
 
 Upon their arrival at the University, they encounter Ralph, who promptly excuses himself to summon [[../Characters/Professor Felwurd Einbach|Professor Einbach]]. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]], ever curious, takes a quick glance at the papers Ralph had been working on, noting they appear to be some sort of academic essay.
 
