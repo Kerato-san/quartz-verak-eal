@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *10 Sirorev, 1524*
 
 As the group returns to Waldhein, they begin discussing how to distract the guards. Ideas are thrown around, including creating a fake fire or making a loud noise in the church. However, they soon abandon the idea of distraction. They ask Braya to describe Ralph's appearance.
