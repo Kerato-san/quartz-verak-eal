@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *31 Sirorev 1524*
 
 The group's journey through the temple’s enigmatic corridors takes a dramatic turn as they emerge from the waterlogged maze and find themselves in an enormous cylindrical tunnel. The structure, reminiscent of an ancient aqueduct or a colossal barrel, looms with a sense of foreboding and wonder. Its sheer size and the thickness of the air around them suggest a purpose far beyond the ordinary.
