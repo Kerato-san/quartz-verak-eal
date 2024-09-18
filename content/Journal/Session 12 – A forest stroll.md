@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 _11 Sirorev 1524_
 
 As [[../Characters/Player Characters/Roderick Fremont|Roderick]] dashed forward to clear the next alley, [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] attempted to draw the attention of nearby zombies with a loud thunderous spell. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]], armed with her new magic sword, tested its effects against a zombie but found no clear magical effect. With [[../Characters/Player Characters/Roderick Fremont|Roderick]]'s assistance, she climbed up onto the roof of a nearby house. [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] manifested his wings and flew up after her, intending to assist the rest of the group in reaching the rooftop. After [[../Characters/Player Characters/Roderick Fremont|Roderick]] climbed up with [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] distracting the zombies, he pulled [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] up as well.
