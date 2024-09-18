@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *32 Sirorev 1524 – 8 Larum 1524*
 
 In a strategic move to safeguard the Dragon’s Heart, [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] suggests that [[../Characters/Player Characters/Megan Wattson|Megan]] attune to the artifact. This suggestion arises from the fresco they had seen earlier, where the Heart seemed to be bound to the wielder's wrist, making it more difficult for potential thieves to snatch.
