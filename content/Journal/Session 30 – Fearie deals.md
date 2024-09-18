@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *32 Sirorev 1524*
 
 In the enemy camp, the group observes a similar composition to the adversaries they had encountered earlier, with the exception of one individual. This figure, clad in ornate robes, exudes an air of authority, evidently the leader of this faction. The group watches as a team of guards moves towards where Suhana had fallen. They quickly bind her and drag her away, disappearing behind some tents.

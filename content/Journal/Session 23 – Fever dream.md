@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *28 Sirorev 1524 – 30 Sirorev 1524*
 
 The group trudges through the thick underbrush, their primary concern being the deteriorating health of [[../Characters/Player Characters/Roderick Fremont|Roderick]]. Poison courses through his veins, manifesting the torment in both his pallor and his agony. On the crest of a ridge with a breathtaking view of the jungle in the Chamak valley, [[../Characters/Player Characters/Roderick Fremont|Roderick]], in his weakened state, heaves, his nausea leaving an unpleasant deposit in the bushes. His dazed eyes view the expansive vista, and deliriously, he wonders aloud about the possibility of flight if propelled off the edge.

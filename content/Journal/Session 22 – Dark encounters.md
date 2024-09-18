@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *23 Sirorev 1524 – 28 Sirorev 1524*
 
 The scene is set in a frenzy, with the thunderous charge of an elephant acting as the herald of an imminent confrontation. Emerging from the opposite side of the crossing, adversaries draped in shadows spring forth from their hidden vantage among the foliage. From within their ranks, a dark-robed sorcerer weaves an incantation, resulting in a menacing black sphere that engulfs [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]], Suhana, and [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]]. Within, ethereal entities hunger for their essence.

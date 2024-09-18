@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *11 Sirorev 1524*
 
 As the group ventured onto the balcony, the grandeur of the chamber gradually revealed itself, including the towering vaulted ceiling and the imposing statue standing at its heart. The statue depicted a broad-shouldered figure with a serene expression on its bearded face, holding a chisel and hammer—an unmistakable representation of [[../Gods/The Grey/Timnar|Timnar]] himself.

@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *Date: 28 Oct 2022*
 7th Sirorev 1524
 

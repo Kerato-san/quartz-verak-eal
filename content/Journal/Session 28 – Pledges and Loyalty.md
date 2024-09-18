@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *31 Sirorev 1524 – 32 Sirorev 1524*
 
 As the group makes their return journey through the temple, they find the traps that once threatened their progress now mysteriously deactivated. In a moment of unexpected camaraderie, one of the water elementals even embraces [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] in a watery hug, a gesture of peace or perhaps gratitude.

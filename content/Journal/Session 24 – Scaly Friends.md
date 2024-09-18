@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *30 Sirorev 1524*
 
 The startled kobold, now identified as Oko, hesitantly begins to communicate with the group. Oko, a small draconic creature with brown scales, is convinced to lead them to his village, nestled deep in the heart of the jungle. The village that greets them is a vibrant tapestry of color, adorned with fabrics that echo the diverse hues of the kobolds' scales, and even robes mimicking the patterns of scales.

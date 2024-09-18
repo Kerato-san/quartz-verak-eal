@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *20 Sirorev 1524 – 23 Sirorev 1524*
 
 After some strategic deliberation, the group decided to split up, weaving their way separately toward the gate. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] and Suhana opted for a bustling route through the market, their sharp eyes catching sight of several conspicuous figures trying futilely to blend in with the crowd.

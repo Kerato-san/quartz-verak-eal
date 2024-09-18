@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 _11 Sirorev 1524_
 
 Before initiating her ritual, Isabella kindly offered her expertise in identifying various items for the group. These included the raven figurine, a cloak of shielding, bracers of defence, and the swords Fang and Chisel.

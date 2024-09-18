@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 _11 Sirorev 1524_
 
 As the group continued their exploration of the tomb, they came across a wall with a sizable hole that led into a recently excavated cave. Recognizing this as a potential route to explore later, they decided to ensure their safety by investigating the rest of the tomb before proceeding further.

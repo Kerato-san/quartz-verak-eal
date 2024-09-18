@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *30 Sirorev 1524*
 
 In a room resonating with arcane energy, the group finds themselves in an extraordinary situation. The twelve-sided chamber, crowned with a domed ceiling adorned with elemental symbols, presents them with a mystifying spectacle: two duplicates of each member, real and illusory counterparts facing each other. At the heart of the room's floor is etched a cryptic sentence: “ƎVAƎ˩ YAM ƎИO Y˩ИO.”

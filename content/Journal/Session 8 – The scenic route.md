@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *10 Sirorev 1524*
 
 The group wakes up to a new day, with [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] showing up with some weird flaps on his armour.  

@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *31 Sirorev 1524*
 
 As the group steps into the gaping maw that serves as the temple's entrance, they are immediately enveloped in an atmosphere that speaks of ancient silence and preservation. The coolness of the age-old stones contrasts sharply with the jungle's humidity, creating an almost sacred quietness that buffers the cacophony of the outside world.

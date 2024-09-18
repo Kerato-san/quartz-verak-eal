@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 _6: 9 Sirorev 1524_
 
 The group starts to investigate the strange hut. There is a message over the door of the hut: “Please do not disturb”. [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] recognizes a mark of “Alarm”. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] and [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] investigate the door and pick the lock. A “!” is suddenly appended to the message. There is a hallway the size of the whole hut inside, with a suit of armour that steps off its pedestal when the door opens.
