@@ -5,7 +5,7 @@
 > |  |   |
 > |---|---|
 > | **Title(s)** | The Goddess of Pain<br>The Cruel Mistress<br>The Ravager |
-> | **Adjective(s)** | Xilothian |
+> | **Adjective(s)** | Xilothic |
 > | **Aspects/Aliases** | The Torturer |
 > | **Gender** | Feminine |
 > #### Advanced Information
