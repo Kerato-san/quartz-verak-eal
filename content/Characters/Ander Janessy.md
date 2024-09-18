@@ -4,6 +4,9 @@ status: alive
 aliases:
   - Ander
   - Janessy
+tags:
+  - Human
+  - Rogue
 ---
 > [!infobox]
 > # Ander Janessy
