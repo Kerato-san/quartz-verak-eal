@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *8-9 Sirorev, 1524*
 
 The group approach Elric's smithy, marked with a sign that reads "Elric's Smithy". Braya is sitting outside and asks [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] if she can help them. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] promises to ask her father Elric. Inside the shop are tools and weapons hanging on the walls, and according to [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]], they are of good quality with the most expensive items worth up to 25 gp.
