@@ -1,3 +1,10 @@
+---
+tags:
+  - NPC
+  - Archfey
+  - Patron
+  - Faerie
+---
 > [!infobox]
 > # Luvian
 > ![[../ZZ Images/Luvian.png|../ZZ Images/Luvian.png]]
