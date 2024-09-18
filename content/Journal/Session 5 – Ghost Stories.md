@@ -8,7 +8,7 @@ However, the conversation is cut short when [[../Characters/Player Characters/Gi
 
 The group visits the store "General Story: all the Bibs and Bobs you need". As they open the door, a small bell rings. After sounds of things falling over, the shop's owner, Cathil, rushes into the room. A lean and tan woman in her forties, she's heard enough about the zombies and Cedric. Instead, she insists that the ghost in the hills is the cause of all the trouble.
 
-She tells the group about her own encounter with the ghost, a gaunt and tall figure in armor that glowed and was mostly transparent. The armor was similar to the type Sir Fremont wore, and the ghost raised one arm at Cathil before she ran for her life. Cathil also informs them about the hill where the ghost appeared, which was accessible from one of the smaller side streets, and the presence of goblins in the hills who had threatened travelers in the past.
+She tells the group about her own encounter with the ghost, a gaunt and tall figure in armor that glowed and was mostly transparent. The armor was similar to the type Sir [[../Characters/Player Characters/Roderick Fremont|Fremont]] wore, and the ghost raised one arm at Cathil before she ran for her life. Cathil also informs them about the hill where the ghost appeared, which was accessible from one of the smaller side streets, and the presence of goblins in the hills who had threatened travelers in the past.
 
 Regarding the town's leadership, Cathil explains the mayor is chosen by the townspeople, while the sheriff is appointed by the king or another authority in the capital. The sheriff is preferably someone from the town. The group buys trinkets and leaves the store, thanking Cathil before they head back to the inn.
 

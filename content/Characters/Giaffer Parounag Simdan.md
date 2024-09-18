@@ -1,6 +1,9 @@
 ---
 type: character
 status: alive
+tags:
+  - Human
+  - Wizard
 ---
 > [!infobox]
 > # Giaffer Parounag-Simdan

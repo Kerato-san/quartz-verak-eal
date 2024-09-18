@@ -6,7 +6,7 @@ Simultaneously, Asra observes 14 men and a suspicious shadowy area ahead. In ant
 
 The skirmish begins almost immediately as they engage the enemy. Suhana, in a seemingly tactical maneuver, summons one of her winged lions and takes to the skies. However, her departure from the battlefield soon becomes a full retreat, leaving the group to fend for themselves.
 
-The battle proves arduous, with each member of the group sustaining significant injuries. Sir Roderick, overwhelmed, is forced to resort to firing from beneath his shield. [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]], caught in the grasp of an excruciating hex, collapses the moment he attempts to heal himself.
+The battle proves arduous, with each member of the group sustaining significant injuries. Sir [[../Characters/Player Characters/Roderick Fremont|Roderick]], overwhelmed, is forced to resort to firing from beneath his shield. [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]], caught in the grasp of an excruciating hex, collapses the moment he attempts to heal himself.
 
 [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]]'s consciousness returns to the sensation of Archimedes administering a healing potion, an odd and disorienting revival. Following the intense battle, the group decides to take an hour's rest before sneaking into the enemy camp under the cover of night.
 
