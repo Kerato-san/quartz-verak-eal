@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - mohanpura-adventure
+---
 *32 Sirorev 1524*
 
 An hour away from the valley’s exit, Archimedes returns with crucial information. He reports spotting a camp positioned strategically at the saddle point between the valleys. His reconnaissance reveals that 16 individuals had departed the camp, heading in their direction, while 17 others remained inside.
