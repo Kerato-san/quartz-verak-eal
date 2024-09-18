@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *8 Sirorev, 1524*
 
 Surviving the ambush from the Warriors of [[../Gods/The Grey/Timnar|Timnar]], [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] is approached by [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] who offers to temporarily improve his armor. [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] leaves his armor with [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon]] and goes outside to ask guidance from the goddess [[../Gods/The Grey/Nethin|Nethin]]. He channels [[../Gods/The Grey/Nethin|Nethin]]'s power and creates a duplicate of himself in the daylight moon. Through meditating on his duplicate he enters a trance without realizing until his duplicate blinks. Then a breeze picks up and he hears a whisper from the wind saying "Outside my reach, cannot see."
