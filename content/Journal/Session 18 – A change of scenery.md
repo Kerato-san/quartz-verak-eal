@@ -1,6 +1,6 @@
 _19 Sirorev 1524_
 
-In the Palace of the Portalis, [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] and the group noticed that the guards wore livery with a circular pattern, likely a reference to the Portalis itself. [[../Characters/Player Characters/Megan Wattson|Megan]] Watson decided to entertain himself by antagonizing the attendant with terrible jokes, but Roderick improved the situation by paying for their travel.
+In the Palace of the Portalis, [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] and the group noticed that the guards wore livery with a circular pattern, likely a reference to the Portalis itself. [[../Characters/Player Characters/Megan Wattson|Megan]] Watson decided to entertain himself by antagonizing the attendant with terrible jokes, but [[../Characters/Player Characters/Roderick Fremont|Roderick]] improved the situation by paying for their travel.
 
 They were guided through a lavish interior adorned with depictions of the royal roses to a domed room. Inside, stone circles were engraved on the ground, adorned with glowing runes. In the centre was an obsidian slab with slots for rune tablets, and attendants retrieved the tablets from nearby cabinets. Inserting the tablets for Mohanpura, the stone circles rotated into position and began to glow. An attendant signalled them to step into the main circle.
 
