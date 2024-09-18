@@ -1,3 +1,8 @@
+---
+tags:
+  - session-log
+  - waldhein-adventure
+---
 *10 and 11 Sirorev 1524*
 
 A figure in rags dashes into the inn across the street, which [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] and [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] see from the window. [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] asks Elanil to watch the inn while he and [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] try to get a good look around from the roof. The stairs end in a rusty, creaky trapdoor. Once they're through, the roof has a rough, uneven surface and partial walls remaining from the floor that was destroyed centuries ago.
