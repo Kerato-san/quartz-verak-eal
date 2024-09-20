@@ -3,7 +3,7 @@ tags:
   - session-log
   - waldhein-adventure
 ---
-_9 Sirorev 1524_
+*9 Sirorev 1524*
 
 The group follows Snowflake on the long way around to avoid the hallway with the suit of armour. In the study, they re-examine the bust of Salazar Tam, a powerful Lich who once ruled a large part of Destania. The group notices that the bust can pivot forward, so they try it out. As they do so, the hearth in the room opens up, revealing a secret hallway with smooth, granite-like stone walls.
 
