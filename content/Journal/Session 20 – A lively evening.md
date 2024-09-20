@@ -3,7 +3,7 @@ tags:
   - session-log
   - mohanpura-adventure
 ---
-_19 Sirorev 1524_
+*19 Sirorev 1524*
 
 The group sneaked cautiously to room 28, aware of potential onlookers from other buildings, though nobody appeared to be observing them specifically.
 
