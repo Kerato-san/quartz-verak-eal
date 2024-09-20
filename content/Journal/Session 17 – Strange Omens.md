@@ -4,7 +4,7 @@ tags:
   - waldhein-adventure
   - mohanpura-adventure
 ---
-_12 Sirorev 1524 – 19 Sirorev 1524_
+*12 Sirorev 1524 – 19 Sirorev 1524*
 
 From the stable keeper and farrier, [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] and the group learned that Sander had arrived late the previous night, rented a new horse, and claimed to be on a mission to deliver an urgent message. He had ridden further downstream. They informed the innkeeper of the situation in Waldhein so that help could be sent.
 
