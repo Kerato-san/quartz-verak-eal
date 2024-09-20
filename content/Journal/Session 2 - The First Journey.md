@@ -3,8 +3,7 @@ tags:
   - session-log
   - waldhein-adventure
 ---
-*Date: 22 Oct 2022*
-32nd Khorovel 1524
+*32nd Khorovel 1524*
 
 In the morning, [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Carceroy]] goes on a goose chase for meat with skin. [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] sends Akila after him to watch out for him. After [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Carceroy]] returns, there are some shenanigans with the scribe as the group wait for [[../Characters/Professor Felwurd Einbach|Professor Einbach]]. The group will get more details about our mission when he arrives.
 

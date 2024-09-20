@@ -3,7 +3,7 @@ tags:
   - session-log
   - waldhein-adventure
 ---
-_11 Sirorev 1524_
+*11 Sirorev 1524*
 
 Upon their return to Larras and Elric at the entrance, they noticed the sounds of returning animals and wilted flowers starting to bloom once again. At [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]]'s feet, entire flower bushes sprung up, hinting at his fey history. As they made their way back to Waldhein, Diodaris scouted ahead, revealing that the townspeople were engaged in the clean-up following the zombie ordeal. However, there was no sign of Saulé where they had left her. Thankfully, there was no indication of her demise either.
 

@@ -3,7 +3,7 @@ tags:
   - session-log
   - mohanpura-adventure
 ---
-_19 Sirorev 1524_
+*19 Sirorev 1524*
 
 In the Palace of the Portalis, [[../Characters/Player Characters/Lugh Aynurdaris|Lugh]] and the group noticed that the guards wore livery with a circular pattern, likely a reference to the Portalis itself. [[../Characters/Player Characters/Megan Wattson|Megan]] Watson decided to entertain himself by antagonizing the attendant with terrible jokes, but [[../Characters/Player Characters/Roderick Fremont|Roderick]] improved the situation by paying for their travel.
 

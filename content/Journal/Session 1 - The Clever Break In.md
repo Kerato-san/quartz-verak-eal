@@ -3,15 +3,13 @@ tags:
   - session-log
   - waldhein-adventure
 ---
-*Date: 14 Oct 2022*
+*31st Korovel 1524*
 
-31st Korovel 1524.
-
-Upon arrival in Feldenburg, the applicants are taken to the Stained Parchment Inn by a guide named Ronald Ekker. There they have a prepaid private room. The Stained Parchment Inn is located in the university square. They are led one by one to the receptionist, who tells them to wait. In the reception hall are several waiting people of all kinds. Finally, [[../Characters/Ander Janessy|Ander]] and two others, a dwarf and an Aasimar, are called together and taken to a hall of curiosities. Artefacts are present in the hall. There are also a few students who are directly addressed by [[../Characters/Ander Janessy|Ander]]. One of the students is called Julia, and she plans to meet [[../Characters/Ander Janessy|Ander]] later at the Inn.
+Upon arrival in Feldenburg, the applicants are taken to the Stained Parchment Inn by a guide named Ronald Ekker. There they have a prepaid private room. The Stained Parchment Inn is located in the university square. They are led one by one to the receptionist, who tells them to wait. In the reception hall are several waiting people of all kinds. Finally, [[../Characters/Ander Janessy|Ander]] and two others, a dwarf and an Azatel, are called together and taken to a hall of curiosities. Artefacts are present in the hall. There are also a few students who are directly addressed by [[../Characters/Ander Janessy|Ander]]. One of the students is called Julia, and she plans to meet [[../Characters/Ander Janessy|Ander]] later at the Inn.
 
 Finally, they are let into [[../Characters/Professor Felwurd Einbach|Professor Einbach]]'s office. The professor calls them by name, one by one.
 
-- [[../Characters/Player Characters/Lugh Aynurdaris|Lugh Aynurdaris]] - Aasimar. Recommended for actions he took while helping to excavate a tomb
+- [[../Characters/Player Characters/Lugh Aynurdaris|Lugh Aynurdaris]] - Azatel. Recommended for actions he took while helping to excavate a tomb
 
 - [[../Characters/Player Characters/Gideon Benicio Montague Carceroy|Gideon Benicio Montague Carceroy]] - Dwarf. Known from the Royal University of Rosenberg
 

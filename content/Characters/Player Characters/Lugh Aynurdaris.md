@@ -8,7 +8,7 @@ tags:
   - Player-Character
   - Cleric
   - Clergy
-  - Astvazan
+  - Azatel
 ---
 
 ## Personal history

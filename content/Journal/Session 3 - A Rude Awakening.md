@@ -3,8 +3,7 @@ tags:
   - session-log
   - waldhein-adventure
 ---
-*Date: 28 Oct 2022*
-7th Sirorev 1524
+*7th Sirorev 1524*
 
 The group have arrived in Waldhein. Jorn tells us that the group can spend the night in the inn called "The Wild Hut". The group offer him to investigate his wife’s illness. On their way to Jorn's house, the group pass several houses that turn out to be marked by a symbol of the god [[../Gods/The Grey/Timnar|Timnar]] on the front door. The symbol looks like a T, with a simple chisel horizontally at the top and an upright hammer below it. When the group asks Jorn about it, he tells us that the village is controlled by the warriors of [[../Gods/The Grey/Timnar|Timnar]]. The mark on the doors means that the people of that house do not follow the rules imposed by them. The rules boil down to following the orders of the warriors and that the warriors will protect the village from the zombie attacks. The zombies do not enter the village because the warriors patrol the perimeter. The villagers are also not allowed to leave the village at night for their own safety. Jorn seems to like warriors of [[../Gods/The Grey/Timnar|Timnar]]. They saved his wife in the attack. 
 
