@@ -34,7 +34,7 @@ Pentath is a god of pure, unrelenting destruction. He finds bliss in the collaps
 He despises order, civilisation, and anything that represents stability or permanence. While he harbours a particular hatred for the gods of creation, law, and protection, Pentath’s enmity extends to any being that seeks to preserve or protect the world.
 
 # Relationships  
-Pentath is reviled by most of the gods, both among [[../The Lost Pantheon|The Lost]] and [[../The Grey Pantheon|The Grey]]. His absolute desire for destruction leaves little room for alliances, though he does form temporary partnerships with gods whose goals align with his, albeit briefly. He shares a tenuous relationship with [[./Fax|Fax]], the god of domination, as both seek to subjugate the world—though Pentath ultimately wishes to destroy everything, including [[./Fax|Fax]]’s dominion.
+Pentath is reviled by most of the gods, both among [[../The Lost Pantheon|The Lost]] and [[../The Grey Pantheon|The Grey]]. His absolute desire for destruction leaves little room for alliances, though he does form temporary partnerships with gods whose goals align with his, albeit briefly. He shares a tenuous relationship with [[./Fax|Fax]], the god of domination, as both seek to subjugate the world, though Pentath ultimately wishes to destroy everything, including [[./Fax|Fax]]’s dominion.
 
 [[./Namiut|Namiut]], the goddess of evil dragons, is an ally by convenience, as they both revel in the destructive nature of their followers. However, even she treads carefully around Pentath, knowing that his appetite for ruin may turn on her one day. Pentath also respects [[./Nethira|Nethira]], the goddess of deceit, who uses subterfuge and manipulation to tear apart societies from within, hastening their collapse.
 

@@ -10,6 +10,14 @@ tags:
   - Clergy
   - Azatel
 ---
+> [!infobox]
+> # Lugh Aynurdaris
+> ![[../../ZZ Images/MascPlaceHolder.png|../../ZZ Images/MascPlaceHolder.png]]
+> ###### Stats
+> | Type |  Stat |
+> |---|---|
+> | Heritage | Azatel |
+> | Worships | [[../../Gods/The Grey/Nethin\|Nethin]] |
 
 ## Personal history
 

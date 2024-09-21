@@ -5,7 +5,7 @@ tags:
 ---
 *11 Sirorev 1524*
 
-As the group ventured onto the balcony, the grandeur of the chamber gradually revealed itself, including the towering vaulted ceiling and the imposing statue standing at its heart. The statue depicted a broad-shouldered figure with a serene expression on its bearded face, holding a chisel and hammer—an unmistakable representation of [[../Gods/The Grey/Timnar|Timnar]] himself.
+As the group ventured onto the balcony, the grandeur of the chamber gradually revealed itself, including the towering vaulted ceiling and the imposing statue standing at its heart. The statue depicted a broad-shouldered figure with a serene expression on its bearded face, holding a chisel and hammer, an unmistakable representation of [[../Gods/The Grey/Timnar|Timnar]] himself.
 
 [[../Characters/Player Characters/Ainalucia Julieta Adriana Loracan|Aina]] took the lead in meticulously checking the entire hall for traps and secret entrances, her keen eye identifying one hidden behind the statue, adjacent to a regular door. Her investigation also uncovered that the small door at the base of the stairs appeared to have been forced open from the inside, revealing a 35-foot hallway leading to another door. Furthermore, the large double doors on the balcony seemed to be in excellent condition, securely shut, but showing signs of recent use.
 
