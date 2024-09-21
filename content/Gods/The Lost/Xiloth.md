@@ -32,7 +32,7 @@ Xiloth is often depicted as a fearsome yet eerily beautiful figure, her four hor
 # Personality
 Xiloth is driven by an insatiable lust for suffering. She seeks out torment in all its forms, finding bliss in the screams of her victims and the sight of broken wills. Whether through slow, agonising torture or swift, brutal violence, she takes pleasure in the destruction of body and spirit alike. Unlike other deities who seek power, knowledge, or dominion, Xiloth desires only the anguish of others.
 
-For Xiloth, pain is an art form, and she considers herself its master artist. She sees the human mind as a delicate canvas—each flicker of despair, every scream, a brushstroke of her masterpiece. A broken bone is satisfying, but a crushed soul is transcendent. She revels in crafting situations where her victims are not only physically tortured but are also mentally stripped of hope, dignity, and the will to fight.
+For Xiloth, pain is an art form, and she considers herself its master artist. She sees the human mind as a delicate canvas, each flicker of despair, every scream, a brushstroke of her masterpiece. A broken bone is satisfying, but a crushed soul is transcendent. She revels in crafting situations where her victims are not only physically tortured but are also mentally stripped of hope, dignity, and the will to fight.
 
 Her cruelty knows no bounds, but she values loyalty among her followers, particularly those who prove their devotion through acts of extreme brutality. However, Xiloth’s gaze is fickle, and her favour is fleeting. Many who worship her too closely find themselves the subjects of her torment.
 
