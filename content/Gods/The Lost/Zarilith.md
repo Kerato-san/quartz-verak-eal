@@ -43,7 +43,7 @@ Among the gods of [[../The Lost Pantheon|The Lost]], Zarilith is a key figure. S
 # Worshippers
 Zarilith’s worshippers are primarily the drow, who revere her as their dark matron and queen. Her teachings of ambition, betrayal, and power-through-deceit are the foundation of drow society. Within their underground cities, power struggles and assassinations are common, as every drow vies for Zarilith’s favour. Her influence is seen in the drow’s ruthless political structure, where only the most cunning survive.
 
-Her worshippers outside of the drow are typically those who seek to manipulate others for personal gain—assassins, corrupt leaders, and ambitious manipulators. Her temples are located deep within the Underdark, surrounded by mazes of stone and filled with symbols of betrayal and power. The drow believe that Zarilith rewards those who succeed in their schemes, blessing them with cunning and control over their enemies.
+Her worshippers outside of the drow are typically those who seek to manipulate others for personal gain, assassins, corrupt leaders, and ambitious manipulators. Her temples are located deep within the Underdark, surrounded by mazes of stone and filled with symbols of betrayal and power. The drow believe that Zarilith rewards those who succeed in their schemes, blessing them with cunning and control over their enemies.
 
 ## Orders
 - **The Venomous Brood**: An elite order of drow assassins who serve Zarilith by spreading her influence through poison and deception. They are masters of stealth and betrayal, often working as political tools for the noble houses of the Underdark, though their true loyalty is always to Zarilith.
